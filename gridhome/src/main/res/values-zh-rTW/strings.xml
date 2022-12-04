@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">工具</string>
+    <string name="speed_name">一鍵加速</string>
+    <string name="app_folder">應用資料夾</string>
+    <string name="unread_hint">缺乏電話和簡訊許可權，請檢查您的權限設定</string>
+    <string name="choose">選擇</string>
+    <string name="clean_toast_prompt">成功釋放了 <xliff:g id="count">%1$s</xliff:g> 個後臺程式, 當前可用記憶體為 <xliff:g id="count">%2$s</xliff:g> MB.</string>
+    <string name="family_num_not_set">親情號%1$s沒有設定</string>
+    <string name="no_sim_card_inserted">請插入 SIM 卡以啟動 SIM 工具箱.</string>
+    <string name="app_open_error">打開失敗,請重新檢查.</string>
+    <string name="speak_spec" translatable="false">H 點 mm</string>
+</resources>

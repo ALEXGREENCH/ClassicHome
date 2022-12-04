@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"ឧបករណ៍"</string>
+    <string name="speed_name">"កម្មវិធីសម្អាត"</string>
+    <string name="app_folder">"ស៊ឺមីឯកសារកម្មវិធី"</string>
+    <string name="unread_hint">"បាត់បង់នូវសិទ្ធិចូលការហៅទូរស័ព្ទនិងសារSMS សូមឆែកមើលការកំណត់សិទ្ធិរបស់លោកអ្នក"</string>
+    <string name="choose">"ជ្រើសរើស"</string>
+    <string name="clean_toast_prompt">"បានបញ្ចេញ <xliff:g id="count">%1$s</xliff:g>ប្រតិបត្តិការ, <xliff:g id="count">%2$s</xliff:g> MB អាចប្រើប្រាស់បានពេលនេះ។"</string>
+    <string name="family_num_not_set">"មិនទាន់បានកំណត់លេខទូរស័ព្ទសាច់ញាតិ %1$s នោះទេ"</string>
+    <string name="no_sim_card_inserted">"សូមបញ្ចូលស៊ីមដើម្បីចាប់ផ្តើមដំណើរការប្រអប់ឧបករណ៍ស៊ីម។"</string>
+    <string name="app_open_error">"បានបរាជ័យក្នុងការបើក សូមឆែកមើលវាឡើងវិញ។"</string>
+    <string name="weather_0">"ថ្ងៃអាទិត្យ"</string>
+    <string name="weather_1">"ថ្ងៃភ្លៀង"</string>
+</resources>

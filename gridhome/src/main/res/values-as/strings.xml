@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"সঁজুলি"</string>
+    <string name="speed_name">"ক্লিনাৰ"</string>
+    <string name="app_folder">"এপ্প ফ\'ল্ডাৰ"</string>
+    <string name="unread_hint">"ফোন আৰু SMS-ৰ অনুমতি পোৱা নাই, অনুগ্ৰহ কৰি আপোনাৰ অনুমতি ছেটিং পৰীক্ষা কৰক"</string>
+    <string name="choose">"পচন্দ কৰক"</string>
+    <string name="clean_toast_prompt">"মুকলি কৰা হ\'ল <xliff:g id="count">%1$s</xliff:g> প্ৰক্ৰিয়া কৰে, <xliff:g id="count">%2$s</xliff:g> MB এতিয়া উপলব্ধ।"</string>
+    <string name="family_num_not_set">"পৰিয়াল নম্বৰ %1$s ছেট কৰা নাই"</string>
+    <string name="no_sim_card_inserted">"SIM টুলকিট আৰম্ভ কৰিবলৈ SIM সন্নিবিষ্ট কৰক।"</string>
+    <string name="app_open_error">"খুলিবলৈ ব্যৰ্থ হ\'ল, অনুগ্ৰহ কৰি ইয়াক পুনৰ পৰীক্ষা কৰক।"</string>
+    <string name="weather_0">"ৰ\'দঘাই দিন"</string>
+    <string name="weather_1">"বৰষুনৰ দিন"</string>
+</resources>

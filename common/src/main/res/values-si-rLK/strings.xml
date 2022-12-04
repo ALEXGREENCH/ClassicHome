@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"පවුල"</string>
+<string name="remove_title">"සබැඳුම ඉවත් කරන්න"</string>
+<string name="remove_info">"වැඩ ස්ථානයෙන් සබැඳුම ඉවත් කල යුතු බව තහවුරුද?"</string>
+<string name="remove_confirm">"හරි"</string>
+<string name="remove_cancel">"අවලංගු කරන්න"</string>
+<string name="activity_not_found">"යෙදුම සොයා නොගන්නා ලදී."</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"परिवारः"</string>
+<string name="remove_title">"सम्पर्कम् अपराकरोतु"</string>
+<string name="remove_info">"कार्यरिक्तस्थानात् सम्पर्कान् अपाकर्तुं दृढमनाः अस्ति किम्?"</string>
+<string name="remove_confirm">"बाढम्।"</string>
+<string name="remove_cancel">"निरस्यताम्"</string>
+<string name="activity_not_found">"अनुप्रयोगः न प्राप्तः।"</string>
+</resources>

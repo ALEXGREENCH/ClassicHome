@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"Eszközök"</string>
+    <string name="speed_name">"Tisztító"</string>
+    <string name="app_folder">"Alkalmazásmappa"</string>
+    <string name="unread_hint">"Hiányoznak telefon- és SMS-engedélyek, ellenőrizze az engedély-beállításokat"</string>
+    <string name="choose">"Kiválasztás"</string>
+    <string name="clean_toast_prompt">" <xliff:g id="count">%1$s</xliff:g> folyamat felszabadítva, <xliff:g id="count">%2$s</xliff:g> MB érhető el most."</string>
+    <string name="family_num_not_set">"A(z) %1$s családi szám nincs beállítva"</string>
+    <string name="no_sim_card_inserted">"A SIM-eszköztár indításához helyezzen be egy SIM kártyát."</string>
+    <string name="app_open_error">"nem sikerült megnyitni, kérjük, ellenőrizze újra."</string>
+    <string name="weather_0">"Napos nap"</string>
+    <string name="weather_1">"Esős nap"</string>
+</resources>

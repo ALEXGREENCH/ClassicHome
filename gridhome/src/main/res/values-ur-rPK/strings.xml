@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">اوزار</string>
+    <string name="speed_name">"کلینر"</string>
+    <string name="app_folder">"ایپ فولڈر"</string>
+    <string name="unread_hint">"لاپتہ فون اور SMS اجازتیں، براہ مہربانی اپنی اجازتوں کی ترتیبات کی پڑتال کریں۔"</string>
+    <string name="choose">"چنیں"</string>
+    <string name="clean_toast_prompt">""جاری کردہ <xliff:g id="count">%1$s</xliff:g> پراسسز, <xliff:g id="count">%2$s</xliff:g> MB اب دستیاب ہیں۔"</string>
+    <string name="family_num_not_set">"فیملی نمبر %1$s سیٹ نہیں ہے"</string>
+    <string name="no_sim_card_inserted">"‏براہ کرم SIM ٹول کٹ لانچ کرنے کیلئے SIM داخل کریں۔"</string>
+    <string name="app_open_error">"کھلنا ناکام ہوا، براہ مہربانی اس کی دوبارہ پڑتال کریں۔"</string>
+    <string name="weather_0">"دن کی روشنی"</string>
+    <string name="weather_1">"بارش کا دن"</string>
+</resources>

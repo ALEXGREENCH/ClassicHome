@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"Famiglia"</string>
+<string name="remove_title">"Rimuovi contatti"</string>
+<string name="remove_info">"Vuoi davvero rimuovere questo contatto?"</string>
+<string name="remove_confirm">OK</string>
+<string name="remove_cancel">Annulla</string>
+<string name="activity_not_found">"App non trovata"</string>
+</resources>

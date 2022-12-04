@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">工具</string>
+    <string name="speed_name">一键加速</string>
+    <string name="app_folder">应用文件夹</string>
+    <string name="unread_hint">缺少电话和短信权限，请检查您的权限设定</string>
+    <string name="choose">选择</string>
+    <string name="clean_toast_prompt">成功释放了 <xliff:g id="count">%1$s</xliff:g> 个后台程序, 当前可用内存为 <xliff:g id="count">%2$s</xliff:g> MB.</string>
+    <string name="family_num_not_set">亲情号码%1$s没有设置</string>
+    <string name="no_sim_card_inserted">请插入 SIM 卡以启动 SIM 卡工具包.</string>
+    <string name="app_open_error">打开失败,请重新检查.</string>
+    <string name="speak_spec" translatable="false">H 点 mm</string>
+    <string name="weather_0"> 晴天 </string>
+    <string name="weather_1"> 雨天 </string>
+</resources>

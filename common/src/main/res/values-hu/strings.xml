@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="family">"Család"</string>
+    <string name="remove_title">"Névjegy eltávolítása"</string>
+    <string name="remove_info">"Biztosan eltávolítja a névjegyet a munkaterületről?"</string>
+    <string name="remove_confirm">"OK"</string>
+    <string name="remove_cancel">"Mégse"</string>
+    <string name="activity_not_found">"Alkalmazás nem található."</string>
+</resources>

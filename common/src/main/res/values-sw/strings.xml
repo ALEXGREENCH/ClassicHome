@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"Familia"</string>
+<string name="remove_title">"Ondoa Mawasiliano"</string>
+<string name="remove_info">"Una uhakika wa kuondoa mawasiliano kutoka nafasi ya kazi?"</string>
+<string name="remove_confirm">"Sawa"</string>
+<string name="remove_cancel">"Ghairi"</string>
+<string name="activity_not_found">"App haipatikani."</string>
+</resources>

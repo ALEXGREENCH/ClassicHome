@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flash_light">"ពិល"</string>
+    <string name="flash_open">"បើក"</string>
+    <string name="flash_close">"បិទ"</string>
+    <string name="idle_main_menu">"ម៉ឺនុយ"</string>
+    <string name="qtn_idle_extra">"បន្ថែម"</string>
+    <string name="flash_invert">ពណ៌បញ្ច្រាស</string>
+    <string name="desktop_carrier_default">"អត់សេវា"</string>
+    <string name="desktop_network_locked_message">"បណ្ដាញជាប់សោ"</string>
+    <string name="desktop_missing_sim_message_short">"មិន​មាន​កាត SIM"</string>
+    <string name="desktop_permanent_disabled_sim_message_short"> ស៊ីមកាតមិនអាចប្រើប្រាស់បានទេ</string>
+</resources>

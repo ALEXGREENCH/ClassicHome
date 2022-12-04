@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abbrev_wday_month_day_no_year">EEEEMMMd</string>
+    <!-- Time format strings for clock widget in idle screen-->
+    <string name="clock_12hr_format">hma</string>
+    <!-- Time format strings for clock widget in idle screen-->
+    <string name="clock_24hr_format">Hm</string>
+</resources>

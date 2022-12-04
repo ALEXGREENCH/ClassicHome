@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"परिवार"</string>
+<string name="remove_title">"संपर्क मिटाएं"</string>
+<string name="remove_info">"क्या आप सचमुच वर्कस्पेस से संपर्क मिटाना चाहते हैं?"</string>
+<string name="remove_confirm">ठीक है</string>
+<string name="remove_cancel">निरस्त करें</string>
+<string name="activity_not_found">"ऐप नहीं मिला।"</string>
+</resources>

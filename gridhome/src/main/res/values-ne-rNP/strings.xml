@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"उपाकरणहरु"</string>
+    <string name="speed_name">"सफा गर्ने"</string>
+    <string name="app_folder">"अनुप्रयोग फोल्डर"</string>
+    <string name="unread_hint">"छुटेका फोन र एसएमएस अनुमतिहरूको लागि, कृपया आफ्नो अनुमति सेटिङ् जाँच्नुहोस्"</string>
+    <string name="choose">"रोज्नुहोस"</string>
+    <string name="clean_toast_prompt">"<xliff:g id="count">%1$s</xliff:g> प्रक्रिया जारी गरियो, <xliff:g id="count">%2$s</xliff:g> एमबी अहिले उपलब्ध छ।"</string>
+    <string name="family_num_not_set">"परिवार संख्या %1$s सेट गरिएको छैन"</string>
+    <string name="no_sim_card_inserted">"SIM टुलकिट लञ्च गर्न कृपया SIM घुसाउनुहोस्।"</string>
+    <string name="app_open_error">"खोल्न असफल भयो, कृपया यसलाई फेरी जाँच्नुहोस्"</string>
+    <string name="weather_0">"घाम"</string>
+    <string name="weather_1">"वर्षात् दिन"</string>
+</resources>

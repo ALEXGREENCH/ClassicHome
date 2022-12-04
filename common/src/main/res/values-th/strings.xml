@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"ครอบครัว"</string>
+<string name="remove_title">"ลบรายชื่อ"</string>
+<string name="remove_info">"คุณแน่ใจว่าต้องการลบรายชื่อออกจากพื้นที่ทำงานหรือไม่?"</string>
+<string name="remove_confirm">"ตกลง"</string>
+<string name="remove_cancel">ยกเลิก</string>
+<string name="activity_not_found">"ไม่พบแอพ"</string>
+</resources>

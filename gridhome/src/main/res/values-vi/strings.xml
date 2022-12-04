@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">Công cụ</string>
+    <string name="speed_name">"Dọn sạch"</string>
+    <string name="app_folder">"Thư mục ứng dụng"</string>
+    <string name="unread_hint">"Cho phép Cuộc gọi nhỡ và SMS, vui lòng kiểm tra cài đặt quyền cho phép của bạn"</string>
+    <string name="choose">"Chọn"</string>
+    <string name="clean_toast_prompt">"Quy trình <xliff:g id="count">%1$s</xliff:g> được giải phóng, <xliff:g id="count">%2$s</xliff:g> MB có sẵn bây giờ.""</string>
+    <string name="family_num_not_set">"Số gia đình %1$s không được đặt"</string>
+    <string name="no_sim_card_inserted">"Vui lòng lắp SIM để chạy Bộ công cụ SIM."</string>
+    <string name="app_open_error">"Mở thất bại, vui lòng kiểm tra lại lần nữa."</string>
+    <string name="weather_0">"Ngày nắng"</string>
+    <string name="weather_1">"Ngày mưa"</string>
+</resources>

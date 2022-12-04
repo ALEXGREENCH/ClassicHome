@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpapers">"ຮູບພື້ນຫຼັງ"</string>
+<string name="background">"ເບື້ອງຫຼັງ"</string>
+<string name="set_wallpaper_success">"ຕັ້ງຮູບພື້ນຫຼັງສຳເລັດແລ້ວ"</string>
+</resources>

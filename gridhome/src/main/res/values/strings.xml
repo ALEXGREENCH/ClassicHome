@@ -1,0 +1,20 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">GridHome</string>
+    <!-- Time format strings for fall-back app_clock widget -->
+    <string name="keyguard_widget_12_hours_format" translatable="false">hh\uee01mm</string>
+    <!-- Time format strings for fall-back app_clock widget -->
+    <string name="keyguard_widget_24_hours_format" translatable="false">kk\uee01mm</string>
+    <!-- packages information -->
+    <string name="tools_name">Tools</string>
+    <string name="speed_name">Cleaner</string>
+    <string name="app_folder">App Folder</string>
+    <string name="unread_hint">Missing Phone and SMS permissions, please check your permission settings</string>
+    <string name="choose">Choose</string>
+    <string name="clean_toast_prompt">Released <xliff:g id="count">%1$s</xliff:g> processes,  <xliff:g id="count">%2$s</xliff:g> MB available now.</string>
+    <string name="family_num_not_set">Family Number %1$s is not set</string>
+    <string name="no_sim_card_inserted">Please insert SIM to launch SIM Toolkit.</string>
+    <string name="app_open_error">Open failed, please check it again.</string>
+    <string name="speak_spec" translatable="false"> H m </string>
+    <string name="weather_0"> Sunny day </string>
+    <string name="weather_1"> Rainy day </string>
+</resources>

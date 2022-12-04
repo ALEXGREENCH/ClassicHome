@@ -1,0 +1,4 @@
+<resources>
+    <integer name="wallpaper_column_num">3</integer>
+    <integer name="wallpaper_softbar_background_alpha">0</integer>
+</resources>

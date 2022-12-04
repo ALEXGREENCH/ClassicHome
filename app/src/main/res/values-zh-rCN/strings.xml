@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name1">ClassicHome</string>
+    <string name="flash_light">手电筒</string>
+    <string name="flash_open">打开</string>
+    <string name="flash_close">关闭</string>
+    <string name="idle_main_menu">"菜单"</string>
+    <string name="qtn_idle_extra">附加</string>
+    <string name="flash_invert">反色</string>
+    <string name="desktop_carrier_default">"无服务。"</string>
+    <string name="desktop_network_locked_message">"网络已锁定"</string>
+    <string name="desktop_missing_sim_message_short">"未插卡"</string>
+    <string name="desktop_permanent_disabled_sim_message_short">"SIM 卡无法使用。"</string>
+    <string name="desktop_text_message_separator" product="default">" \u2014 "</string>
+</resources>

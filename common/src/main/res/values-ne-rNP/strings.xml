@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"परिवार"</string>
+<string name="remove_title">"सम्पर्क हटाउनुहोस्"</string>
+<string name="remove_info">"के तपाईं कार्य स्थानबाट सम्पर्क हटाउन पक्का गर्नुहुन्छ?"</string>
+<string name="remove_confirm">"ठिक छ"</string>
+<string name="remove_cancel">"रद्द गर्नुहोस्"</string>
+<string name="activity_not_found">"अनुप्रयोग फेला पार्न सकिएन।"</string>
+</resources>

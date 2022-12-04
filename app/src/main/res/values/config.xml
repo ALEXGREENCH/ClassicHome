@@ -1,0 +1,16 @@
+<resources>
+
+    <integer name="main_menu_column_num">3</integer>
+    <!-- add for family number -->
+    <integer name="family_column_num">3</integer>
+    <integer name="family_max_items">9</integer>
+
+    <integer name="window_background_alpha">20</integer>
+    <integer name="softbar_background_alpha">0</integer>
+
+    <bool name="idle_home_with_wallpaper">true</bool>
+    <bool name="main_menu_with_wallpaper">true</bool>
+
+    <string name="left_button_launch_app" translatable="false">"com.sprd.simple.launcher2/com.sprd.classichome.family.FamilyActivity"</string>
+    <string name="right_button_launch_app" translatable="false">"com.android.camera/com.android.camera.Camera"</string>
+</resources>

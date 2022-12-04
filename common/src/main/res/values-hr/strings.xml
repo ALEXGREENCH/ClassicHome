@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"Obitelj"</string>
+<string name="remove_title">"Ukloniti kontakt"</string>
+<string name="remove_info">"Jeste li sigurni da želite obrisati kontakt iz radnog prostora?"</string>
+<string name="remove_confirm">"U redu"</string>
+<string name="remove_cancel">"Odustani"</string>
+<string name="activity_not_found">"Aplikacija nije pronađena."</string>
+</resources>

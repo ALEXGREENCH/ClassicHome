@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"उपकरणानि"</string>
+    <string name="speed_name">"प्रोञ्छकः"</string>
+    <string name="app_folder">"अनुप्रयोगस्य समुच्चयः"</string>
+    <string name="unread_hint">"दूरभाषस्य, SMS सन्देशस्य च अनुमतयः लुप्ताः, कृपया स्वानुमतेः अभिविन्यासं परीक्षतु।"</string>
+    <string name="choose">"चिनोतु"</string>
+    <string name="clean_toast_prompt">"प्रकाशितम् <xliff:g id="count">%1$s</xliff:g> प्रकाशयति, <xliff:g id="count">%2$s</xliff:g> MB उपलब्धम् अधुना।"</string>
+    <string name="family_num_not_set">"%1$s इति परिवारक्रमाङ्कः न निर्धारितः"</string>
+    <string name="no_sim_card_inserted">"SIM उपकरणसमुच्चयं स्थापयतिुं SIM निवेशयतु।"</string>
+    <string name="app_open_error">"उद्घाटने विफलः, कृपया एतत् पश्चात् परीक्षतु।"</string>
+    <string name="weather_0">"सूर्योजः"</string>
+    <string name="weather_1">"वर्षायुक्तः दिवसः"</string>
+</resources>

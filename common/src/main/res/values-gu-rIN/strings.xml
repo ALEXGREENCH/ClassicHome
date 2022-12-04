@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"પરિવાર"</string>
+<string name="remove_title">"સંપર્ક કાઢી નાખો"</string>
+<string name="remove_info">"શું તમારે વર્કસ્પેસમાંથી આ સંપર્ક કાઢી જ નાખવો છે?"</string>
+<string name="remove_confirm">ઓકે</string>
+<string name="remove_cancel">"રદ્દ"</string>
+<string name="activity_not_found">"એપ્લિકેશન મળતું નથી"</string>
+</resources>

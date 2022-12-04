@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">כלים</string>
+    <string name="speed_name">"מנקה"</string>
+    <string name="app_folder">"קלסר אפליקציה"</string>
+    <string name="unread_hint">"חסרים בהרשאות טלפון ו- SMS, אנא לבדוק את קביעת ההרשאה שלך"</string>
+    <string name="choose">"בחר"</string>
+    <string name="clean_toast_prompt">".זמין עכשיו  MB <xliff:g id="count">%2$s</xliff:g> , תהליכים משוחרר  <xliff:g id="count">%1$s</xliff:g>"</string>
+    <string name="family_num_not_set">"מספר המשפחה %1$s אינו מוגדר"</string>
+    <string name="no_sim_card_inserted">"‏הכנס כרטיס SIM כדי להפעיל את Toolkit SIM."</string>
+    <string name="app_open_error">"פתח נכשל, אנא לבדוק את זה מחדש."</string>
+    <string name="weather_0">"יום שמשי"</string>
+    <string name="weather_1">"יום גשום"</string>
+</resources>

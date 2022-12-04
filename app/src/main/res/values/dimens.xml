@@ -1,0 +1,39 @@
+<resources>
+    <!-- add for family number -->
+    <dimen name="family_item_add_top_padding">27dp</dimen>
+
+    <dimen name="empty_family_item_text_size">20sp</dimen>
+    <dimen name="family_item_text_size">35sp</dimen>
+    <dimen name="family_item_name_bottom_padding">13dp</dimen>
+
+    <dimen name="family_divider_height">5dp</dimen>
+    <dimen name="family_divider_padding">5dp</dimen>
+
+    <dimen name="idle_sim_label_marginTop">37dp</dimen>
+    <dimen name="idle_sim_label_text_size">20dp</dimen>
+
+    <dimen name="idle_clock_layout_marginTop">64dp</dimen>
+    <dimen name="idle_clock_text_size">96dp</dimen>
+    <dimen name="am_pm_widget_font_size">20sp</dimen>
+    <dimen name="idle_gap_between_clock_and_date">-8dp</dimen>
+    <dimen name="idle_date_text_size">18px</dimen>
+    <dimen name="idle_lunar_text_size">16px</dimen>
+    <dimen name="idle_gap_between_date_and_lunar">6dp</dimen>
+
+    <dimen name="idle_home_softbar_icon_size">32dp</dimen>
+
+    <!--main_menu_title_height - main_menu_title_margin_bottom = 32dp-->
+    <dimen name="main_menu_title_height">32dp</dimen>
+    <dimen name="main_menu_title_margin_bottom">0dp</dimen>
+    <!--42 is radius, selector size-->
+    <dimen name="main_menu_icon_selector_radius">42dp</dimen>
+    <dimen name="main_menu_icon_size">60dp</dimen>
+    <dimen name="gridview_height">320dp</dimen>
+
+    <dimen name="base_list_view_height">59dp</dimen>
+    <dimen name="base_list_item_padding">10dp</dimen>
+
+    <!-- For unread info -->
+    <dimen name="unread_text_layout_margin">3dp</dimen>
+
+</resources>

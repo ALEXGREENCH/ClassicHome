@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">桌布</string>
+    <string name="background">背景</string>
+    <string name="set_wallpaper_success">桌布設定成功</string>
+</resources>

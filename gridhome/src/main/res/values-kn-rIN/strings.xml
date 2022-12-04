@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"ಸಲಕರಣೆಗಳು"</string>
+    <string name="speed_name">"ಶುದ್ಧಿಕಾರಕ"</string>
+    <string name="app_folder">"ಆಪ್ ಫೋಲ್ಡರು(ಮಡಿತೆ)"</string>
+    <string name="unread_hint">"ಕಾಣೆಯಾದ (ಮಿಸ್ಸಿ೦ಗ್ )ಫೋನ್ ಮತ್ತು SMS ಅನುಮತಿಗಳು, ದಯವಿಟ್ಟು ನಿಮ್ಮ ಅನುಮತಿ ಸೆಟ್ಟಿ೦ಗ್ಸ್(ಸ್ಥಾಪನೆಗಳು) ತಪಾಸಿಸಿ"</string>
+    <string name="choose">"ಆರಿಸು"</string>
+    <string name="clean_toast_prompt">"ಬಿಡುಗಡೆಯಾಗಿದೆ <xliff:g id="count">%1$s</xliff:g> ಪ್ರಕ್ರಿಯೆಗಳು,<xliff:g id="count">%2$s</xliff:g> MB ಈಗ ಲಭ್ಯ."</string>
+    <string name="family_num_not_set">"ಕುಟು೦ಬ (ಸಂಸಾರ)ಸ೦ಖ್ಯೆ %1$s ಸ್ಥಾಪನೆಯಾಗಿಲ್ಲ"</string>
+    <string name="no_sim_card_inserted">"ಸಿಮ್ ಟೂಲ್‌ಕಿಟ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಲು ದಯವಿಟ್ಟು ಸಿಮ್ ಸೇರ್ಪಡಿಸಿ."</string>
+    <string name="app_open_error">"ತೆರೆಯುವಿಕೆ ನಪಾಸಾಗಿದೆ,ದಯವಿಟ್ಟು ಅದನ್ನು ಮತ್ತೆ ತಪಾಸಿಸು."</string>
+    <string name="weather_0">"ಬಿಸಿಲು ದಿನ"</string>
+    <string name="weather_1">"ಮಳೆಗಾಲದ ದಿನ"</string>
+</resources>

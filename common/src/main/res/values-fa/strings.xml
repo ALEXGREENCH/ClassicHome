@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"خانواده"</string>
+<string name="remove_title">"حذف مخاطب"</string>
+<string name="remove_info">"آیا مطمئن هستید که می‌خواهید مخاطب را از فضای کاری حذف کنید؟"</string>
+<string name="remove_confirm">تایید</string>
+<string name="remove_cancel">انصراف</string>
+<string name="activity_not_found">"برنامه یافت نمی‌شود."</string>
+</resources>

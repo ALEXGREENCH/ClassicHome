@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"Pamilya"</string>
+<string name="remove_title">"Alisin ang Contact"</string>
+<string name="remove_info">"Sigurado ka bang alisin ang contact mula sa workspace?"</string>
+<string name="remove_confirm">"OK"</string>
+<string name="remove_cancel">"Kanselahin"</string>
+<string name="activity_not_found">"Ang app ay hindi nahanap."</string>
+</resources>

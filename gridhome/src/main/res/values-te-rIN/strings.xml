@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">ఉపకరణములు</string>
+    <string name="speed_name">"క్లీనర్"</string>
+    <string name="app_folder">"యాప్‌ఫోల్డర్"</string>
+    <string name="unread_hint">"ఫోన్ మరియు ఎస్‌ఎం‌ఎస్ అనుమతులు కనిపించుటలేదు, దయచేసి మీ అనుమతి సెటింగులను పరిశీలించండి"</string>
+    <string name="choose">"ఎంచుకో"</string>
+    <string name="clean_toast_prompt">"విడుదలయ్యింది <xliff:g id="count">%1$s</xliff:g> ప్రక్రియలు, <xliff:g id="count">%2$s</xliff:g> MB ప్రస్తుతం లభ్యంగా ఉంది."</string>
+    <string name="family_num_not_set">"కుటుంబపు సంఖ్య %1$s సెట్ చేయబడలేదు"</string>
+    <string name="no_sim_card_inserted">"దయచేసి SIM టూల్‌కిట్‌ని ప్రారంభించడానికి SIMని చేర్చండి."</string>
+    <string name="app_open_error">"తెరవడం విఫలం, దయచేసి తిరిగి పరిశీలించండి."</string>
+    <string name="weather_0">"పగటి వెలుతురు"</string>
+    <string name="weather_1">"వర్షపు రోజు"</string>
+</resources>

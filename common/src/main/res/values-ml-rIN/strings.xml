@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"കുടുംബം"</string>
+<string name="remove_title">"കോണ്ടാക്ട് നീക്കം ചെയ്യട്ടെ?"</string>
+<string name="remove_info">"വർക്‌സ്‌പേസിൽ നിന്ന് ഈ കോണ്ടാക്ട് നീക്കണമെന്ന് ഉറപ്പാണോ?"</string>
+<string name="remove_confirm">"ശരി"</string>
+<string name="remove_cancel">"റദ്ദാക്കുക"</string>
+<string name="activity_not_found">"ആപ്പ് കണ്ടെത്താനായില്ല"</string>
+</resources>

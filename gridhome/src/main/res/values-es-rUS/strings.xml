@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"Herramientas"</string>
+    <string name="speed_name">"Limpiador"</string>
+    <string name="app_folder">"Carpeta de aplicaciones"</string>
+    <string name="unread_hint">"Faltan permisos de teléfono y de SMS; compruebe su configuración de permisos"</string>
+    <string name="choose">"Elegir"</string>
+    <string name="clean_toast_prompt">"Se liberaron <xliff:g id="count">%1$s</xliff:g> procesos, ahora hay <xliff:g id="count">%2$s</xliff:g> MB disponibles."</string>
+    <string name="family_num_not_set">"El número de familia %1$s no ha sido establecido"</string>
+    <string name="no_sim_card_inserted">"Inserte el SIM para iniciar la caja de herramientas de SIM."</string>
+    <string name="app_open_error">"No se pudo abrir, compruébelo nuevamente."</string>
+    <string name="weather_0">"Día soleado"</string>
+    <string name="weather_1">"Día lluvioso"</string>
+</resources>

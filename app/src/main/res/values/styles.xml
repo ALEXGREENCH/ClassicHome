@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="IdleTimeStyle">
+        <item name="android:textSize">@dimen/idle_clock_text_size</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:format12Hour">@string/clock_12hr_format</item>
+        <item name="android:format24Hour">@string/clock_24hr_format</item>
+    </style>
+    <style name="IdleLunarDateStyle">
+        <item name="android:textSize">@dimen/idle_lunar_text_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_marginTop">@dimen/idle_gap_between_date_and_lunar</item>
+    </style>
+    <style name="IdleDateStyle" parent="IdleLunarDateStyle">
+        <item name="android:textSize">@dimen/idle_date_text_size</item>
+        <item name="android:layout_marginTop">@dimen/idle_gap_between_clock_and_date</item>
+        <item name="android:format12Hour">@string/abbrev_wday_month_day_no_year</item>
+        <item name="android:format24Hour">@string/abbrev_wday_month_day_no_year</item>
+    </style>
+</resources>

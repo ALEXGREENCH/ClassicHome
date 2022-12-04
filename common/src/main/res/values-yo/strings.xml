@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"परिवार"</string>
+<string name="remove_title">"रावता हटाओ"</string>
+<string name="remove_info">"क्या तुस जकीनी तौर पर कारज-स्पेस थमां रावता हटाना चांह्‌दे ओ?"</string>
+<string name="remove_confirm">"ठीक ऐ"</string>
+<string name="remove_cancel">"रद्द करो"</string>
+<string name="activity_not_found">"ऐप नेईं मिलेआ ऐ।"</string>
+</resources>

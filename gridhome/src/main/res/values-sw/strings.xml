@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">Zana</string>
+    <string name="speed_name">"Inayosafisha"</string>
+    <string name="app_folder">"Kabrasha ya APP"</string>
+    <string name="unread_hint">"Kukosekana ruhusu ya simu na SMS ruhusa, tafadhali angalia mipangilio yako ya ruhusa."</string>
+    <string name="choose">"Chagua"</string>
+    <string name="clean_toast_prompt">"Imetolewa<xliff:g id="count">%1$s</xliff:g> taratibu, <xliff:g id="count">%2$s</xliff:g> MB iliyo sasa."</string>
+    <string name="family_num_not_set">"Idadi ya familia %1$s haijawekwa"</string>
+    <string name="no_sim_card_inserted">"Tafadhali weka SIM ili ufungue Zana za SIM."</string>
+    <string name="app_open_error">"Kufugua kumefeli, tafadhali angalia tena."</string>
+    <string name="weather_0">"Siku ya jua"</string>
+    <string name="weather_1">"Siku ya mvua"</string>
+</resources>

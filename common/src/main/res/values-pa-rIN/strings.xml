@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">ਪਰਿਵਾਰ</string>
+<string name="remove_title">"ਸੰਪਰਕ ਮਿਟਾਓ"</string>
+<string name="remove_info">"ਕੀ ਤੁਸੀਂ ਸਚਮੁੱਚ ਵਰਕਸਪੇਸ ਵਿੱਚੋਂ ਸੰਪਰਕ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+<string name="remove_confirm">"ਠੀਕ ਹੈ"</string>
+<string name="remove_cancel">ਰੱਦ ਕਰੋ</string>
+<string name="activity_not_found">"ਐਪ ਨਹੀਂ ਮਿਲਿਆ।"</string>
+</resources>

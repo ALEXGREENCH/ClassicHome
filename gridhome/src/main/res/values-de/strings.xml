@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"Werkzeuge"</string>
+    <string name="speed_name">"Bereinigungsprogramm"</string>
+    <string name="app_folder">"App-Ordner"</string>
+    <string name="unread_hint">"Fehlende Telefon- und SMS-Berechtigungen. Bitte überprüfen Sie Ihre Berechtigungseinstellungen"</string>
+    <string name="choose">"Auswählen"</string>
+    <string name="clean_toast_prompt">" <xliff:g id="count">%1$s</xliff:g> Prozesse befreit, <xliff:g id="count">%2$s</xliff:g> MB sind jetzt verfügbar."</string>
+    <string name="family_num_not_set">"Familiennummer %1$s ist nicht eingestellt"</string>
+    <string name="no_sim_card_inserted">"Bitte lege die SIM-Karte ein, um das SIM-Toolkit zu starten."</string>
+    <string name="app_open_error">"Öffnen fehlgeschlagen. Bitte überprüfen Sie es erneut."</string>
+    <string name="weather_0">"Sonniger Tag"</string>
+    <string name="weather_1">"Regnerischer Tag"</string>
+</resources>

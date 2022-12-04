@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"ເຄື່ອງ​ມື"</string>
+    <string name="speed_name">"ການເລັ່ງຄວາມໄວ"</string>
+    <string name="app_folder">"ໂຟນເດີແອັບ"</string>
+    <string name="unread_hint">"ຂາດການອະນຸຍາດຈາກການໂທລະສັບແລະສົ່ງSMS, ກະລຸນາກວດສອບການຕັ້ງຄ່າອະນຸຍາດຂອງທ່ານກ່ອນ"</string>
+    <string name="choose">"ການເລືອກ"</string>
+    <string name="clean_toast_prompt">"ສໍາເລັດການປ່ອຍອອກແລ້ວ <xliff:g id="count">%1$s</xliff:g>ການດໍາເນີນງານຂອງຜູ້ຈັດການ, ໃນຂະນະນີ້ຫນ່ວຍຄວາມຈໍາສາມາດໃຊ້ງານໄດ້ <xliff:g id="count">%2$s</xliff:g> MB."</string>
+    <string name="family_num_not_set">"ໝາຍເລກເຄືອຂ່າຍຄອບຄົວ %1$s ຍັງບໍ່ທັນໄດ້ຕັ້ງຄ່າ"</string>
+    <string name="no_sim_card_inserted">"ກະ​ລຸ​ນາ​ສຽບ SIM ເພື່ອ​ເປີດ​ໃຊ້​ຊຸດ​ເຄື່ອງ​ມື SIM."</string>
+    <string name="app_open_error">"ການເປີດລົ້ມເຫຼວ, ກະລຸນາລອງອີກເທື່ອໜຶ່ງໃໝ່."</string>
+    <string name="weather_0">"ມື້ແດດ"</string>
+    <string name="weather_1">"ມື້ຝົນ"</string>
+</resources>

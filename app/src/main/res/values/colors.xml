@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_sys_select_color">#006EEE</color>
+    <color name="family_divider_selected_color">#00FFFFFF</color>
+    <color name="classichome_softbar_font_color">#FFFFFF</color>
+
+    <!-- add for flashlight -->
+    <color name="flashlight_default_bg_color">#FFFFFF</color>
+    <color name="flashlight_invert_bg_color">#000000</color>
+    <color name="flashlight_featurebar_default_bg_color">#006EEE</color>
+    <color name="flashlight_featurebar_invert_bg_color">#000000</color>
+    <color name="flashlight_featurebar_default_font_color">#FFFFFF</color>
+    <color name="flashlight_featurebar_invert_font_color">#006EEE</color>
+    <color name="flashlight_actionbar_default_font_color">#000000</color>
+    <color name="flashlight_actionbar_invert_font_color">#FFFFFF</color>
+
+    <color name="idle_sim_label_font_color">#FFFFFF</color>
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Apps xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--These apps need to be show on extra-->
+    <App
+        app:clsName="com.android.dialer.calllog.CallLogActivity"
+        app:group="mainmenu"
+        app:pkgName="com.android.dialer"
+        app:position="1" />
+    <App
+        app:clsName="com.android.contacts.activities.PeopleActivity"
+        app:group="mainmenu"
+        app:pkgName="com.android.contacts"
+        app:position="2" />
+    <App
+        app:clsName="com.android.gallery3d.app.GalleryActivity"
+        app:group="mainmenu"
+        app:pkgName="com.android.gallery3d"
+        app:position="3" />
+    <App
+        app:clsName="com.android.browser.BrowserActivity"
+        app:group="mainmenu"
+        app:pkgName="com.android.browser"
+        app:position="4" />
+    <App
+        app:clsName="com.android.mms.ui.ConversationList"
+        app:group="mainmenu"
+        app:pkgName="com.android.mms"
+        app:position="5" />
+    <App
+        app:clsName="com.thunderst.radio.FMPlay"
+        app:group="mainmenu"
+        app:pkgName="com.thunderst.radio"
+        app:position="6" />
+    <App
+        app:clsName="com.android.music.WelcomeActivity"
+        app:group="mainmenu"
+        app:pkgName="com.android.music"
+        app:position="7" />
+    <App
+        app:clsName="com.android.camera.CameraLauncher"
+        app:group="mainmenu"
+        app:pkgName="com.android.camera2"
+        app:position="8" />
+    <App
+        app:clsName="com.android.settings.Settings"
+        app:group="mainmenu"
+        app:pkgName="com.android.settings"
+        app:position="9" />
+    <App
+        app:clsName="com.android.deskclock.DeskClock"
+        app:group="mainmenu"
+        app:pkgName="com.android.deskclock"
+        app:position="10" />
+    <App
+        app:clsName="com.android.calendar.AllInOneActivity"
+        app:group="mainmenu"
+        app:pkgName="com.android.calendar"
+        app:position="11" />
+    <App
+        app:clsName="com.sprd.fileexplorer.activities.FileExploreActivity"
+        app:group="mainmenu"
+        app:pkgName="com.sprd.fileexplorer"
+        app:position="12" />
+    <App
+        app:clsName="com.sprd.classichome.ExtrasActivity"
+        app:group="mainmenu"
+        app:pkgName="com.sprd.simple.launcher"
+        app:position="13" />
+    <App
+        app:clsName="com.sprd.classichome.family.FamilyActivity"
+        app:group="extra"
+        app:pkgName="com.sprd.simple.launcher" />
+    <App
+        app:clsName="com.sprd.sprdcalculator.MainActivity"
+        app:group="extra"
+        app:pkgName="com.sprd.sprdcalculator" />
+    <App
+        app:clsName="com.sprd.note.NoteActivity"
+        app:group="extra"
+        app:pkgName="com.sprd.note" />
+    <App
+        app:clsName="com.android.soundrecorder.SoundRecorder"
+        app:group="extra"
+        app:pkgName="com.android.soundrecorder" />
+    <App
+        app:clsName="com.sprd.gallery3d.app.VideoActivity"
+        app:group="extra"
+        app:pkgName="com.android.gallery3d" />
+    <App
+        app:clsName="com.sprd.classichome.FlashLightActivity"
+        app:group="extra"
+        app:pkgName="com.sprd.simple.launcher" />
+    <App
+        app:clsName="com.android.sos.SosActivity"
+        app:group="extra"
+        app:pkgName="com.android.sos" />
+    <App
+        app:clsName="com.sprd.firewall.ui.CallFireWallActivity"
+        app:group="extra"
+        app:pkgName="com.sprd.firewall" />
+    <App
+        app:clsName="com.android.providers.downloads.ui.DownloadList"
+        app:group="extra"
+        app:pkgName="com.android.providers.downloads.ui" />
+    <App
+        app:group="extra"
+        app:pkgName="com.android.stk" />
+</Apps>

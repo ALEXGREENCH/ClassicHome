@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"ကိရိယာမ်ား"</string>
+    <string name="speed_name">"ပိုရွင္းလင္း"</string>
+    <string name="app_folder">"App ဖိုဒါ"</string>
+    <string name="unread_hint">"ဖုန္းနွင့္ SMS ခြင့္ျပဳမိန္ ့မ်ား ေပ်ာက္ေန, ေက်းဇူးျပဳ၍ ခြင့္ျပဳခ်က္ဆက္တင္ကို စစ္ပါ"</string>
+    <string name="choose">" ေရြးခ်ယ္ျပီး "</string>
+    <string name="clean_toast_prompt">"ဖယ္ထား <xliff:g id="count">%1$s</xliff:g> ပေရာစက္လုပ္, <xliff:g id="count">%2$s</xliff:g> MB ယခု ေထာက္ပံ့."</string>
+    <string name="family_num_not_set">"မိသားစု နံပါတ္ %1$s ဆက္တင္မရွိ"</string>
+    <string name="no_sim_card_inserted">"ေက်းဇူးျပဳ၍ SIM ကိရိယာ စတင္ရန္ SIM ထည့္ပါ."</string>
+    <string name="app_open_error">"ဖြင့္မရ, ေက်းဇူးျပဳ၍ ထပ္ စစ္ေဆးပါ."</string>
+    <string name="weather_0">"ေနသာရက္"</string>
+    <string name="weather_1">"မိုးရြာရက္"</string>
+</resources>

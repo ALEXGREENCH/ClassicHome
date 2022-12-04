@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"මෙවලම්"</string>
+    <string name="speed_name">"පිරිසිදුකරණය"</string>
+    <string name="app_folder">"යෙදුම් ෆෝල්ඩරය"</string>
+    <string name="choose">"තෝරන්න"</string>
+    <string name="clean_toast_prompt">""ක්‍රියාවලි <xliff:g id="count">%1$s</xliff:g> නිදහස් කරන ලදී, <xliff:g id="count">%2$s</xliff:g> MB දැන් ලද හැකිය."</string>
+    <string name="family_num_not_set">"පවුල් අංකය %1$s පිහිටුවා නැත""</string>
+    <string name="app_open_error">"විවෘත කිරීම අසාර්ථකයි, කරුණාකර එය නැවත පිරික්සන්න."</string>
+</resources>

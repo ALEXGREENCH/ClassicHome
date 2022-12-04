@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">الأدوات</string>
+    <string name="speed_name">"المسح"</string>
+    <string name="app_folder">"مجلد التطبيقات"</string>
+    <string name="unread_hint">"هاتف مفقود وأذون SMS، يرجى التحقق من إعدادات الأذون"</string>
+    <string name="choose">"اختر"</string>
+    <string name="clean_toast_prompt">"تم تحرير <xliff:g id="count">%1$s</xliff:g> عملية، <xliff:g id="count">%2$s</xliff:g> ميجابايت متاحة الآن."</string>
+    <string name="family_num_not_set">"لم يتم تعيين رقم العائلة %1$s"</string>
+    <string name="no_sim_card_inserted">"‏يُرجى إدخال شريحة SIM لتشغيل مجموعة أدوات شريحة SIM."</string>
+    <string name="app_open_error">"فشل الفتح، يرجى التحقق مجددا."</string>
+    <string name="weather_0">"يوم مشمس"</string>
+    <string name="weather_1">"يوم ممطر"</string>
+</resources>

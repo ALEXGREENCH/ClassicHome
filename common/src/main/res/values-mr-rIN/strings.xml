@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"कुटुंब"</string>
+<string name="remove_title">"संपर्क काढून टाका"</string>
+<string name="remove_info">"आपल्याला कामाच्या ठीकाणावरुन संपर्क नक्की काढायचे आहे काय?"</string>
+<string name="remove_confirm">"ओके"</string>
+<string name="remove_cancel">"रद्द करा"</string>
+<string name="activity_not_found">"ऍप सापडले नाही"</string>
+</resources>

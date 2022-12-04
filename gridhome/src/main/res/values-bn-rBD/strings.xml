@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">টুলগুলো</string>
+    <string name="speed_name">"ক্লিনার"</string>
+    <string name="app_folder">"অ্যাপফোল্ডার"</string>
+    <string name="unread_hint">"নিখোঁজ ফোন এবং SMS অনুমতি, অনুগ্রহ করে আপনার অনুমতি সেচিংস দেখে নিন"</string>
+    <string name="choose">"বেছে নিন"</string>
+    <string name="clean_toast_prompt">"মুক্তিপ্রাপ্ত <xliff:g id="count">%1$s</xliff:g> প্রক্রিয়া, <xliff:g id="count">%2$s</xliff:g> MB এখন লভ্য।"</string>
+    <string name="family_num_not_set">"পরিবার নম্বর %1$s স্থির করা হয় নি"</string>
+    <string name="no_sim_card_inserted">"SIM টুলকিট লঞ্চ করতে দয়া করে SIM ঢোকান৷"</string>
+    <string name="app_open_error">"খোলা ব্যর্থ হয়েছে, অনুগ্রহ করে আবার চেষ্টা করুন।"</string>
+    <string name="weather_0">"দিবালোক"</string>
+    <string name="weather_1">"বৃষ্টির দিন"</string>
+</resources>

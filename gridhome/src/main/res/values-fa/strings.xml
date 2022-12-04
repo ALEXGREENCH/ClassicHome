@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">ابزارها</string>
+    <string name="speed_name">"تمیز کننده"</string>
+    <string name="app_folder">"پوشه برنامه"</string>
+    <string name="unread_hint">"فاقد اجازه‌های تلفن و پیامک؛ لطفاً تنظیمات اجازه خود را بررسی کنید"</string>
+    <string name="choose">"انتخاب"</string>
+    <string name="clean_toast_prompt">"فرایندهای <xliff:g id="count">%1$s</xliff:g> منتشر شده، <xliff:g id="count">%2$s</xliff:g> مگابایت اکنون موجود است."</string>
+    <string name="family_num_not_set">"شماره خانواده %1$s تنظیم نشده است"</string>
+    <string name="no_sim_card_inserted">"‏برای راه‌اندازی ابزار کار SIM، لطفاً سیم‌کارت را وارد کنید."</string>
+    <string name="app_open_error">"باز نشد؛ لطفاً مجدداً آن را بررسی کنید."</string>
+    <string name="weather_0">"روز آفتابی"</string>
+    <string name="weather_1">"روز بارانی"</string>
+</resources>

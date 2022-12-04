@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">משפחה</string>
+<string name="remove_title">"הסר איש קשר"</string>
+<string name="remove_info">"האם אתה בטוח להסיר את איש הקשר מסביבת עבודה?"</string>
+<string name="remove_confirm">"אישור"</string>
+<string name="remove_cancel">"בטל"</string>
+<string name="activity_not_found">"האפליקציה לא נמצאה."</string>
+</resources>

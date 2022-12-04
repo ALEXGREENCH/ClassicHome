@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"కుటుంబం"</string>
+<string name="remove_title">"కాంటాక్టును తొలగించు"</string>
+<string name="remove_info">"పనిప్రదేశం నుండి మీరు కచ్చితంగానే కాంటాక్టును తొలగించాలనుకుంటున్నారా?"</string>
+<string name="remove_confirm">సరి</string>
+<string name="remove_cancel">రద్దు</string>
+<string name="activity_not_found">"యాప్ కనుగొనబడలేదు."</string>
+</resources>

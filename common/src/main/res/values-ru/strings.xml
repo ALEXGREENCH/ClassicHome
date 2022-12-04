@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"Семья"</string>
+<string name="remove_title">"Удалить контакт"</string>
+<string name="remove_info">"Вы уверены, что хотите удалить контакт c рабочей области?"</string>
+<string name="remove_confirm">"ОК"</string>
+<string name="remove_cancel">Отмена</string>
+<string name="activity_not_found">""Приложение не найдено"."</string>
+</resources>

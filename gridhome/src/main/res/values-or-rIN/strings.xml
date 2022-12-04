@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"ଟୁଲ୍ ଗୁଡ଼ିକ"</string>
+    <string name="speed_name">"କ୍ଲିନର୍"</string>
+    <string name="app_folder">"ଆପ୍ ଫୋଲ୍ଡର"</string>
+    <string name="unread_hint">"ଫୋନ୍ ଏବଂ SMS ପର୍ମିସନ୍ ମିଳୁନାହିଁ, ଦୟାକରି ଆପଣଙ୍କ ପର୍ମିସନ୍ ସେଟିଂଗୁଡ଼ିକ ଯାଂଚ କରନ୍ତୁ"</string>
+    <string name="choose">"ବାଛିବା"</string>
+    <string name="clean_toast_prompt">"<xliff:g id="count">%1$s</xliff:g> ପ୍ରକ୍ରିୟାଗୁଡ଼ିକ ରିଲିଜ୍ ହୋଇଛି, <xliff:g id="count">%2$s</xliff:g>,  ବର୍ତ୍ତମାନ ଉପଲବ୍ଧ ।"</string>
+    <string name="family_num_not_set">"ପରିବାର ନମ୍ବର %1$s ସେଟ୍‍ ହୋଇନାହିଁ"</string>
+    <string name="no_sim_card_inserted">"SIM ଟୁଲକିଟ୍ ଲଞ୍ଚ୍ କରିବା ପାଇଁ ଦୟାକରି SIM ଇନସର୍ଟ କରନ୍ତୁ ।"</string>
+    <string name="app_open_error">"ଓପନ୍ କରିବା ବିଫଳ ହୋଇଛି, ଦୟାକରି ପୁଣିଥରେ ଯାଂଚ କରନ୍ତୁ ।"</string>
+    <string name="weather_0">"ସୂର୍ଯାଲୋକ"</string>
+    <string name="weather_1">"ବର୍ଷା ଦିନ"</string>
+</resources>

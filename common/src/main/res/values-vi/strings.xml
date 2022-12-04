@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"Gia đình"</string>
+<string name="remove_title">"Hủy liên hệ"</string>
+<string name="remove_info">"Bạn có chắc chắn muốn loại bỏ các địa chỉ liên lạc từ không gian làm việc không?"</string>
+<string name="remove_confirm">"OK"</string>
+<string name="remove_cancel">"Hủy"</string>
+<string name="activity_not_found">"Ứng dụng không được tìm thấy."</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AppInfo">
+        <attr name="clsName" format="string" />
+        <attr name="pkgName" format="string" />
+        <attr name="position" format="integer" />
+        <attr name="icon" format="reference" />
+        <attr name="label" format="reference|string" />
+        <attr name="group" format="string" />
+    </declare-styleable>
+</resources>

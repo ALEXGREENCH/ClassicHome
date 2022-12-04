@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"খুৎলাইশীং"</string>
+    <string name="speed_name">"ক্লীনর"</string>
+    <string name="app_folder">"এপ ফোল্দর"</string>
+    <string name="unread_hint">"ফোন অমসুং SMS অয়াবা পীবশীং ৱাৎলি, নহাক্কি অয়াবা পীবগী সেটিংশীং চেক তৌবিয়ু"</string>
+    <string name="choose">"খল্লু"</string>
+    <string name="clean_toast_prompt">"থাদোক্লে <xliff:g id="count">%1$s</xliff:g> প্রোসেসশীং, <xliff:g id="count">%2$s</xliff:g> MB হৌজিক ফংই."</string>
+    <string name="family_num_not_set">"ফেমিলি নম্বর %1$s সেট তৌদে"</string>
+    <string name="no_sim_card_inserted">"SIM তূলকিত লোনচ তৌনবা SIM হাপচিনবিয়ু."</string>
+    <string name="app_open_error">"হাংদোকপা মায় পাক্তে, মদু হন্না চেক তৌবিয়ু."</string>
+    <string name="weather_0">"নুংশা থোকপা"</string>
+    <string name="weather_1">"নোং তাবা নুমিৎ"</string>
+</resources>

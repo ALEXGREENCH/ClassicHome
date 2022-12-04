@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"Keluarga"</string>
+<string name="remove_title">"Buang Kenalan"</string>
+<string name="remove_info">"Adakah anda pasti untuk membuang kenalan daripada ruang kerja?"</string>
+<string name="remove_confirm">OK</string>
+<string name="remove_cancel">Batal</string>
+<string name="activity_not_found">"Apl tidak dijumpai"</string>
+</resources>

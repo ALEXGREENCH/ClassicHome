@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"Famille"</string>
+<string name="remove_title">"Supprimer le contact"</string>
+<string name="remove_info">"Etes-vous certain de vouloir retirer le contact de l\'espace de travail ?"</string>
+<string name="remove_confirm">OK</string>
+<string name="remove_cancel">Annuler</string>
+<string name="activity_not_found">"Application non trouvée."</string>
+</resources>

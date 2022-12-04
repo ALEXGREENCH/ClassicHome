@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"পরিবার"</string>
+<string name="remove_title">"যোগাযোগের নাম সরিয়ে দিন"</string>
+<string name="remove_info">"আপনি কি কাজের জায়গা থেকে যোগাযোগের নাম সরিয়ে দেওয়ার বিষয়ে নিশ্চিত?"</string>
+<string name="remove_confirm">ওকে</string>
+<string name="remove_cancel">বাতিল</string>
+    <string name="activity_not_found">"অ্যাপটি খুঁজে পাওয়া যায়নি।"</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">Strumenti</string>
+    <string name="speed_name">"Cleaner"</string>
+    <string name="app_folder">"Cartella APP"</string>
+    <string name="unread_hint">"Permesso telefono ed SMS mancanti, controlla le tue impostazioni di permesso"</string>
+    <string name="choose">"Scegli"</string>
+    <string name="clean_toast_prompt">"Rilasciati <xliff:g id="count">%1$s</xliff:g> processi, <xliff:g id="count">%2$s</xliff:g> MB disponibile ora."</string>
+    <string name="family_num_not_set">"Numero di Famiglia %1$s non impostato"</string>
+    <string name="no_sim_card_inserted">"Inserisci la SIM per avviare Kit strumenti SIM."</string>
+    <string name="app_open_error">"Apertura non riuscita, controlla"</string>
+    <string name="weather_0">"Giorno di sole"</string>
+    <string name="weather_1">"Giorno di pioggia"</string>
+</resources>

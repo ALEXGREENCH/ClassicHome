@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"ಕುಟುಂಬ"</string>
+<string name="remove_title">"ಸ೦ಪರ್ಕ ತೆಗೆ"</string>
+<string name="remove_info">"ನೀವು ಖಂಡಿತವಾಗಿ ಸ೦ಪರ್ಕವನ್ನು ಕಾರ್ಯಕ್ಷೇತ್ರದಿ೦ದ ತೆಗೆಯುವಿರಾ?"</string>
+<string name="remove_confirm">"ಸರಿ"</string>
+<string name="remove_cancel">"ರದ್ದು"</string>
+<string name="activity_not_found">"ಆಪ್ ಸಿಕ್ಕಿಲ್ಲ."</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">เครื่องมือ</string>
+    <string name="speed_name">"โปรแกรมทำความสะอาด"</string>
+    <string name="app_folder">"โฟลเดอร์แอพ"</string>
+    <string name="unread_hint">"การอนุญาตสำหรับโทรศัพท์และ SMS ขาดหายไป โปรดตรวจสอบการตั้งค่าการอนุญาตของคุณ"</string>
+    <string name="choose">"เลือก"</string>
+    <string name="clean_toast_prompt">"ปล่อยแล้ว <xliff:g id="count">%1$s</xliff:g> กระบวนการ ตอนนี้ สามารถใช้ได้ <xliff:g id="count">%2$s</xliff:g> เมกะไบต์"</string>
+    <string name="family_num_not_set">"ไม่ได้ตั้งค่าหมายเลขครอบครัว %1$s"</string>
+    <string name="no_sim_card_inserted">"โปรดใส่ซิมเพื่อเรียกใช้ Toolkit ของซิม"</string>
+    <string name="app_open_error">"ไม่สามารถเปิดได้ โปรดตรวจสอบอีกครั้ง"</string>
+    <string name="weather_0">"ท้องฟ้าโปร่ง"</string>
+    <string name="weather_1">"ฝนตก"</string>
+</resources>

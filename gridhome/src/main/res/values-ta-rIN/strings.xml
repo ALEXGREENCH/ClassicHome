@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">கருவிகள்</string>
+    <string name="speed_name">"சுத்திகரிப்பான்"</string>
+    <string name="app_folder">"ஆப்ஃபோல்டர்"</string>
+    <string name="unread_hint">"தவறிய அழைப்பு மற்றும் எஸ்எம்எஸ் அனுமதிகள், தயவுசெய்து உங்கள் அனுமதி அமைப்புகளை பரிசோதிக்கவும்"</string>
+    <string name="choose">"தேர்ந்தெடுக்கவும்"</string>
+    <string name="clean_toast_prompt">"வெளியிடப்பட்ட <xliff:g id="count">%1$s</xliff:g> செயல்முறைகள், <xliff:g id="count">%2$s</xliff:g> MB இப்போது கிடைக்கிறது."</string>
+    <string name="family_num_not_set">"குடும்ப என் %1$s அமைக்கப்படவில்லை"</string>
+    <string name="no_sim_card_inserted">"சிம் கருவித்தொகுப்பைத் துவக்க, சிம்மைச் செருகவும்."</string>
+    <string name="app_open_error">"திறப்பது தோல்வியடைந்துள்ளது, தயவுசெய்து மீண்டும் பரிசோதிக்கவும்."</string>
+    <string name="weather_0">"வெயில் நாள்"</string>
+    <string name="weather_1">"மழை நாள்"</string>
+</resources>

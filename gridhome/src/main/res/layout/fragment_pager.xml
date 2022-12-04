@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- weather+clock-->
+    <LinearLayout
+        android:id="@+id/default_clock_view"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_is_zero"
+        android:layout_marginTop="@dimen/clock_view_marginTop"
+        android:layout_weight="1"
+        android:background="@drawable/selector_clock_view"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="@dimen/height_is_zero"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/clock_layout_marginLeft"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/clock_view_height_size"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal">
+
+                <TextClock
+                    android:id="@+id/clock_view"
+                    style="@style/widget_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:format12Hour="@string/keyguard_widget_12_hours_format"
+                    android:format24Hour="@string/keyguard_widget_24_hours_format"
+                    android:singleLine="true"
+                    android:textColor="@android:color/white" />
+
+                <TextClock
+                    android:id="@+id/format_time_view"
+                    style="@style/widget_time_format"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/clock_view"
+                    android:layout_marginBottom="@dimen/clock_layout_marginBottom"
+                    android:layout_toRightOf="@+id/clock_view"
+                    android:format12Hour="aa"
+                    android:format24Hour=""
+                    android:singleLine="true"
+                    android:textColor="@android:color/white" />
+
+            </RelativeLayout>
+
+            <TextClock
+                android:id="@+id/format_date_view"
+                style="@style/widget_date"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_is_zero"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/format_lunar_date_view"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_is_zero"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/widget_lunar_font_size"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_weather"
+            android:layout_width="@dimen/height_is_zero"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/weather_view"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_is_zero"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/clock_layout_marginBottom"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/temp_view"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_is_zero"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/clock_layout_marginLeft"
+                android:layout_weight="1"
+                android:textSize="@dimen/widget_label_font_size" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <com.sprd.simple.model.LauncherGridView
+        android:id="@+id/default_grid_view"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_is_zero"
+        android:layout_marginTop="@dimen/horizontalSpacing_grid_view"
+        android:layout_weight="2"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:horizontalSpacing="@dimen/horizontalSpacing_grid_view"
+        android:numColumns="@integer/grid_view_column_num"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="@dimen/verticalSpacing_grid_view" />
+
+</LinearLayout>

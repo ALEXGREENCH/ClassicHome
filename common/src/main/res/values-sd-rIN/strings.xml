@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"ڪٽنب"</string>
+<string name="remove_title">"رابطي کي هٽايو"</string>
+<string name="remove_info">"ڪم جي جاءِ تان رابطي کي مٽائڻ جي ڇا توهان کي خاطري آهي؟"</string>
+<string name="remove_confirm">"ٺيڪ آهي"</string>
+<string name="remove_cancel">" رد ڪريو"</string>
+<string name="activity_not_found">"اطلاق نه مليو."</string>
+</resources>

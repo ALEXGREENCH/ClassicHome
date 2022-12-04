@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"Familie"</string>
+<string name="remove_title">"Kontakt entfernen"</string>
+<string name="remove_info">"Sind Sie sicher, dass Sie den Kontakt aus dem Arbeitsplatz löschen wollen?"</string>
+<string name="remove_confirm">OK</string>
+<string name="remove_cancel">Abbrechen</string>
+<string name="activity_not_found">"App wurde nicht gefunden."</string>
+</resources>

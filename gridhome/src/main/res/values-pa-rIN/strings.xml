@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">ਟੂਲਸ</string>
+    <string name="speed_name">"ਕਲੀਨਰ"</string>
+    <string name="app_folder">"ਐਪ ਫੋਲਡਰ"</string>
+    <string name="unread_hint">"ਲੁਪਤ ਫੋਨ ਅਤੇ SMS ਮਨਜ਼ੂਰੀਆਂ, ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀਆਂ ਮਨਜ਼ੂਰੀ ਸੈਟਿੰਗਾਂ ਦੇਖੋ"</string>
+    <string name="choose">"ਚੁਣੋ"</string>
+    <string name="clean_toast_prompt">"ਰਿਲੀਜ ਕੀਤੀਆਂ <xliff:g id="count">%1$s</xliff:g> ਪ੍ਰਕਿਰਿਆਵਾਂ, <xliff:g id="count">%2$s</xliff:g> MB ਹੁਣ ਉਪਲਬਧ ਹੈ।"</string>
+    <string name="family_num_not_set">"ਫੈਮਿਲੀ ਨੰਬਰ %1$s ਸੈਟ ਨਹੀਂ ਹੈ"</string>
+    <string name="no_sim_card_inserted">"ਕਿਰਪਾ ਕਰਕੇ SIM Toolkit ਲੌਂਚ ਕਰਨ ਲਈ SIM ਪਾਓ।"</string>
+    <string name="app_open_error">"ਖੋਲ੍ਹਣਾ ਅਸਫਲ, ਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਦੁਬਾਰਾ ਦੇਖੋ।"</string>
+    <string name="weather_0">"ਧੁੱਪ ਵਾਲਾ ਦਿਨ"</string>
+    <string name="weather_1">"ਬਰਸਾਤੀ ਦਿਨ"</string>
+</resources>

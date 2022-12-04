@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flash_light">"ໄຟສາຍ"</string>
+    <string name="flash_open">"ເປີດ"</string>
+    <string name="flash_close">"ປິດ"</string>
+    <string name="idle_main_menu">"ເມນູ"</string>
+    <string name="qtn_idle_extra">"ເພີ່ມເຕີມ"</string>
+    <string name="flash_invert">"ກັບ​ສີ"</string>
+    <string name="desktop_carrier_default">"ບໍ່ມີການບໍລິການ."</string>
+    <string name="desktop_network_locked_message">"ລັອກເຄືອຂ່າຍໄວ້ແລ້ວ"</string>
+    <string name="desktop_missing_sim_message_short">"ບໍ່ມີ SIM card"</string>
+    <string name="desktop_permanent_disabled_sim_message_short">"SIM card ໃຊ້ບໍ່ໄດ້."</string>
+</resources>

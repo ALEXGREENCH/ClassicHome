@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"គ្រួសារ"</string>
+<string name="remove_title">"លុបទំនាក់ទំនងចោល"</string>
+<string name="remove_info">"តើលោកអ្នកច្បាស់ថាត្រូវលុបទំនាក់ទំនងនេះចេញពីលំហការងារចោលឬ?"</string>
+<string name="remove_confirm">យល់ព្រម</string>
+<string name="remove_cancel">បោះបង់</string>
+<string name="activity_not_found">"កម្មវិធីរកមិនឃើញទេ។"</string>
+</resources>

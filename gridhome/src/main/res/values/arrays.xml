@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="tool_apps">
+        <item>com.android.sos</item>
+        <item>com.sprd.firewall</item>
+        <item>com.android.soundrecorder</item>
+        <item>com.sprd.note</item>
+        <item>com.sprd.appbackup</item>
+        <item>com.sprd.fileexplorer</item>
+        <item>com.sprd.sprdcalculator</item>
+    </array>
+
+    <!--first page-->
+    <string-array name="family_pic_bg">
+        <item>@color/family_1_bg_color</item>
+        <item>@color/family_2_bg_color</item>
+        <item>@color/family_3_bg_color</item>
+        <item>@color/family_4_bg_color</item>
+        <item>@color/family_5_bg_color</item>
+        <item>@color/family_6_bg_color</item>
+    </string-array>
+
+
+    <!--default page-->
+    <string-array name="contacts">
+        <item>@string/contacts_package</item>
+        <item>@drawable/app_contacts</item>
+        <item>@string/contacts_activity</item>
+        <item>@color/contacts_bg_color</item>
+    </string-array>
+    <string-array name="camera">
+        <item>@string/camera_package</item>
+        <item>@drawable/app_camera</item>
+        <item>@string/camera_activity</item>
+        <item>@color/camera_bg_color</item>
+    </string-array>
+    <string-array name="phone">
+        <item>@string/phone_package</item>
+        <item>@drawable/app_phone</item>
+        <item>@string/phone_activity</item>
+        <item>@color/phone_bg_color</item>
+    </string-array>
+    <string-array name="message">
+        <item>@string/message_package</item>
+        <item>@drawable/app_message</item>
+        <item>@string/message_activity</item>
+        <item>@color/message_bg_color</item>
+    </string-array>
+    <integer-array name="default_page_app_names">
+        <item>@array/contacts</item>
+        <item>@array/camera</item>
+        <item>@array/phone</item>
+        <item>@array/message</item>
+    </integer-array>
+
+    <!--third page-->
+    <string-array name="call_log">
+        <item>@string/call_log_package</item>
+        <item>@drawable/app_calllog</item>
+        <item>@string/call_log_activity</item>
+        <item>@color/call_log_bg_color</item>
+    </string-array>
+    <string-array name="calendar">
+        <item>@string/calendar_package</item>
+        <item>@drawable/app_calender</item>
+        <item>@string/calendar_activity</item>
+        <item>@color/calendar_bg_color</item>
+    </string-array>
+    <string-array name="gallery">
+        <item>@string/gallery_package</item>
+        <item>@drawable/app_gallery</item>
+        <item>@string/gallery_activity</item>
+        <item>@color/gallery_bg_color</item>
+    </string-array>
+    <string-array name="fm">
+        <item>@string/fm_package</item>
+        <item>@drawable/app_fm_radio</item>
+        <item>@string/fm_activity</item>
+        <item>@color/fm_radio_bg_color</item>
+    </string-array>
+    <string-array name="clock">
+        <item>@string/clock_package</item>
+        <item>@drawable/app_clock</item>
+        <item>@string/clock_activity</item>
+        <item>@color/clock_bg_color</item>
+    </string-array>
+    <string-array name="settings">
+        <item>@string/settings_package</item>
+        <item>@drawable/app_settings</item>
+        <item>@string/settings_activity</item>
+        <item>@color/settings_bg_color</item>
+    </string-array>
+    <integer-array name="third_page_app_names">
+        <item>@array/call_log</item>
+        <item>@array/calendar</item>
+        <item>@array/gallery</item>
+        <item>@array/fm</item>
+        <item>@array/clock</item>
+        <item>@array/settings</item>
+    </integer-array>
+
+    <!--fourth page-->
+    <string-array name="video">
+        <item>@string/video_package</item>
+        <item>@drawable/app_video</item>
+        <item>@string/video_activity</item>
+        <item>@color/video_bg_color</item>
+    </string-array>
+    <string-array name="music">
+        <item>@string/music_package</item>
+        <item>@drawable/app_music</item>
+        <item>@string/music_activity</item>
+        <item>@color/music_bg_color</item>
+    </string-array>
+    <string-array name="browser">
+        <item>@string/browser_package</item>
+        <item>@drawable/app_browser</item>
+        <item>@string/browser_activity</item>
+        <item>@color/browser_bg_color</item>
+    </string-array>
+    <string-array name="speed">
+        <item>@string/speed_package</item>
+        <item>@drawable/app_speed</item>
+        <item>@string/speed_activity</item>
+        <item>@color/speed_bg_color</item>
+    </string-array>
+    <string-array name="tools">
+        <item>@string/tool_package</item>
+        <item>@drawable/app_tool</item>
+        <item>@string/tool_activity</item>
+        <item>@color/tool_bg_color</item>
+    </string-array>
+    <string-array name="folder">
+        <item>@string/folder_package</item>
+        <item>@drawable/app_folder</item>
+        <item>@string/folder_activity</item>
+        <item>@color/folder_bg_color</item>
+    </string-array>
+    <integer-array name="fourth_page_app_names">
+        <item>@array/video</item>
+        <item>@array/music</item>
+        <item>@array/browser</item>
+        <item>@array/speed</item>
+        <item>@array/tools</item>
+        <item>@array/folder</item>
+    </integer-array>
+
+    <!--tools page-->
+    <string-array name="sos">
+        <item>@string/sos_package</item>
+        <item>@null</item>
+        <item>@string/sos_activity</item>
+    </string-array>
+    <string-array name="fire_waller">
+        <item>@string/call_fire_wall_package</item>
+        <item>@null</item>
+        <item>@string/call_fire_wall_activity</item>
+    </string-array>
+    <string-array name="recorder">
+        <item>@string/sound_recorder_package</item>
+        <item>@null</item>
+        <item>@string/sound_recorder_activity</item>
+    </string-array>
+    <string-array name="notebook">
+        <item>@string/note_package</item>
+        <item>@null</item>
+        <item>@string/note_activity</item>
+    </string-array>
+    <string-array name="backup">
+        <item>@string/backup_package</item>
+        <item>@null</item>
+        <item>@string/backup_activity</item>
+    </string-array>
+    <string-array name="file_manager">
+        <item>@string/file_manager_package</item>
+        <item>@null</item>
+        <item>@string/file_manager_activity</item>
+    </string-array>
+    <string-array name="calculator">
+        <item>@string/calculator_package</item>
+        <item>@null</item>
+        <item>@string/calculator_activity</item>
+    </string-array>
+    <integer-array name="tools_page_app_names">
+        <item>@array/sos</item>
+        <item>@array/fire_waller</item>
+        <item>@array/recorder</item>
+        <item>@array/notebook</item>
+        <item>@array/backup</item>
+        <item>@array/file_manager</item>
+        <item>@array/calculator</item>
+    </integer-array>
+</resources>

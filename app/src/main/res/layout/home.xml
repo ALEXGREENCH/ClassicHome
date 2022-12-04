@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/sim_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/idle_sim_label_marginTop"
+        android:text="@string/desktop_carrier_default"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/idle_sim_label_font_color"
+        android:textSize="@dimen/idle_sim_label_text_size"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+    <com.sprd.classichome.HomeStatusView
+        android:id="@+id/default_clock_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/idle_clock_layout_marginTop"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextClock
+            android:id="@+id/gridhome_clock_view"
+            style="@style/IdleTimeStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextClock
+            android:id="@+id/gridhome_date_view"
+            style="@style/IdleDateStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/gridhome_lunar_date_view"
+            style="@style/IdleLunarDateStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone" />
+    </com.sprd.classichome.HomeStatusView>
+</RelativeLayout>

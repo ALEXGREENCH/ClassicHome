@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"குடும்பம்"</string>
+<string name="remove_title">"தொடர்பை நீக்கவும்"</string>
+<string name="remove_info">"பணியிடத்திலிருந்து தொடர்பை நீங்கள் நீக்க விரும்புகிறீர்களா?"</string>
+<string name="remove_confirm">ஓகே</string>
+<string name="remove_cancel">நிராகரி</string>
+<string name="activity_not_found">"ஆப் எதுவும் காணப்படவில்லை."</string>
+</resources>

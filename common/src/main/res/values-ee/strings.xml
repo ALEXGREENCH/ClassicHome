@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"ইমুং"</string>
+<string name="remove_title">"কন্টেক্ত লৌথোকউ"</string>
+<string name="remove_info">"নহাক কন্টেক্ত অদু ৱার্কস্পেস তগী লৌথোক্কনি হায়বা শোয়দ্রব্রা?"</string>
+<string name="remove_confirm">"ওকে"</string>
+<string name="remove_cancel">"ককথৎলু"</string>
+<string name="activity_not_found">"এপ ফংদে."</string>
+</resources>

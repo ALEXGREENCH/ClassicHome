@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"आवतां"</string>
+    <string name="speed_name">"स्वछक"</string>
+    <string name="app_folder">"ॲप फोल्डर"</string>
+    <string name="unread_hint">"फोन आनी एसएमएस मान्यताय ना, उपकार करून तुमची मान्यताय सेटिंग्स तपासची"</string>
+    <string name="choose">"वेंचात"</string>
+    <string name="clean_toast_prompt">"<xliff:g id="count">%1$s</xliff:g> प्रक्रिया वितरीत केल्यात, <xliff:g id="count">%2$s</xliff:g> MB आतां उपलब्ध आसा."</string>
+    <string name="family_num_not_set">"कुटुंब क्रमांक %1$s सेट करूंक ना"</string>
+    <string name="no_sim_card_inserted">"SIM टुलकीट लॉन्च करुंक उपकार करुन SIM घालात."</string>
+    <string name="app_open_error">"उकतो करप अपेशी, उपकार करून परत यत्न करचो."</string>
+    <string name="weather_0">"सूर्याचो उजवाड"</string>
+    <string name="weather_1">"पावसाळो दीस"</string>
+</resources>

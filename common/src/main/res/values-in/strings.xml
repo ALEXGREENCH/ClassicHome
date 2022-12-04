@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"Keluarga"</string>
+<string name="remove_title">"Hapus Kontak"</string>
+<string name="remove_info">""Apakah anda yakin untuk menghilangkan kontak dari workspace?"</string>
+<string name="remove_confirm">"OK"</string>
+<string name="remove_cancel">"Batal"</string>
+<string name="activity_not_found">"Aplikasi tidak ditemukan."</string>
+</resources>

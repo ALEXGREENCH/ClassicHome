@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"औजार"</string>
+    <string name="speed_name">"साफ केनिहार"</string>
+    <string name="app_folder">"एपक फोल्डर"</string>
+    <string name="unread_hint">"हरायल फोन आ SMS केर अनुमति, कृपाकय अपन अनुमतिक स्थापना केर जाँच करू"</string>
+    <string name="choose">"चुनू"</string>
+    <string name="clean_toast_prompt">"प्रकाशित <xliff:g id="count">%1$s</xliff:g> प्रक्रिया सब, <xliff:g id="count">%2$s</xliff:g> MB एखन उपलब्ध।"</string>
+    <string name="family_num_not_set">"परिवारिक सँख्या %1$s नहि लगाओल गेल अछि"</string>
+    <string name="no_sim_card_inserted">"SIM टूल कीटकें चलेबाक लेल कृपाकय एकटा SIM पैसाऊ"</string>
+    <string name="app_open_error">"खोलब असफल, कृपाकय एकरा फेरसँ जाँच करू।"</string>
+    <string name="weather_0">"सूरजक चमकनैय"</string>
+    <string name="weather_1">"वर्षातक दिन"</string>
+</resources>

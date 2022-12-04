@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"العائلة"</string>
+<string name="remove_title">"حذف جهة الاتصال"</string>
+<string name="remove_info">"هل أنت متأكد من حذف جهة الاتصال من مساحة العمل؟"</string>
+<string name="remove_confirm">"موافق"</string>
+<string name="remove_cancel">"إلغاء"</string>
+<string name="activity_not_found">"التطبيق غير موجود."</string>
+</resources>

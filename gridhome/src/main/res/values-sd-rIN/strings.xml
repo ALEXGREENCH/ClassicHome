@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"اوزار"</string>
+    <string name="speed_name">"صاف ڪندڙ"</string>
+    <string name="app_folder">"اطلاقي فولڊر"</string>
+    <string name="unread_hint">"فون ۽ ايس ايم ايس جون اجازتون گم آهن، مهرباني ڪري پنهنجي اجازت جي ترتيبن جي چڪاس ڪريو"</string>
+    <string name="choose">" چونڊيو"</string>
+    <string name="clean_toast_prompt">"<xliff:g id="count">%1$s</xliff:g> عمل آزاد ڪيا ويا، <xliff:g id="count">%1$s</xliff:g> ايم بي هاڻي دستياب آهن."</string>
+    <string name="family_num_not_set">"خانداني نمبر %1$s جي ترتيب ڏنل ڪونهي""</string>
+    <string name="no_sim_card_inserted">"SIM ٽول ڪٽ کي هلائڻ لاءِ مهرباني ڪري SIM داخل ڪريو."</string>
+    <string name="app_open_error">"کلڻ ۾ ناڪامي ٿي وئي، مهرباني ڪري کيس وري چڪاس ڪريو."</string>
+    <string name="weather_0">" سج جي روشني ۾"</string>
+    <string name="weather_1">"برساتي ڏينهن""</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="family">亲情号</string>
+    <string name="remove_title">移除联系人</string>
+    <string name="remove_info">确定移除该联系人？</string>
+    <string name="remove_confirm">确定</string>
+    <string name="remove_cancel">取消</string>
+    <string name="activity_not_found">无法找到应用。</string>
+</resources>

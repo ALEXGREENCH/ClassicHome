@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">Outils</string>
+    <string name="speed_name">"Nettoyeur"</string>
+    <string name="app_folder">"Dossier Applications"</string>
+    <string name="unread_hint">"Autorisations SMS et Téléphone absentes,  veuillez consulter vos Autorisations"</string>
+    <string name="choose">"Choisissez"</string>
+    <string name="clean_toast_prompt">"Processus <xliff:g id="count">%1$s</xliff:g> activés, <xliff:g id="count">%2$s</xliff:g> MB disponible maintenant."</string>
+    <string name="family_num_not_set">"Le Numéro Famille %1$s n\'est pas configuré"</string>
+    <string name="no_sim_card_inserted">"Veuillez insérer la carte SIM pour lancer le kit SIM."</string>
+    <string name="app_open_error">"L\'ouverture a échoué, veuillez réessayer."</string>
+    <string name="weather_0">"Journée ensoleillée"</string>
+    <string name="weather_1">"Journée pluvieuse"</string>
+</resources>

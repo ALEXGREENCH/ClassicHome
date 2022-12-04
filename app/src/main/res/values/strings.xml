@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <string name="app_name1">ClassicHome</string>
+    <string name="flash_light">Torch</string>
+    <string name="flash_open">Turn on</string>
+    <string name="flash_close">Turn off</string>
+    <string name="idle_main_menu">Menu</string>
+    <string name="qtn_idle_extra">Extra</string>
+    <string name="flash_invert">Invert</string>
+    <string name="desktop_carrier_default">No service.</string>
+    <string name="desktop_network_locked_message">Network locked</string>
+    <string name="desktop_missing_sim_message_short">No SIM card</string>
+    <string name="desktop_permanent_disabled_sim_message_short">Unusable SIM card.</string>
+    <string name="desktop_text_message_separator" product="default">" \u2014 "</string>
+    <string name="lockscreen_sim_nws_locked_mssage">Network Subset is locked.</string>
+    <string name="lockscreen_sim_sp_locked_mssage">Service Provider is locked.</string>
+    <string name="lockscreen_sim_corporate_locked_mssage">Corporate is locked.</string>
+    <string name="lockscreen_sim_pin_locked_message">"SIM card is PIN-locked."</string>
+</resources>

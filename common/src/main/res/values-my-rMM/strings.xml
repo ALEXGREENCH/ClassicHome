@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"မိသားစု"</string>
+<string name="remove_title">"ဆက္သြယ္သူ ဖယ္ရွားပါ"</string>
+<string name="remove_info">"အလုပ္ေနရာမွ ဆက္သြယ္သူ ဖယ္မွာ ေသခ်ာလား?"</string>
+<string name="remove_confirm">"အိုေက"</string>
+<string name="remove_cancel">"မလုပ္ပါ"</string>
+<string name="activity_not_found">"App မေတြ ့ပါ."</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">" سامان"</string>
+    <string name="speed_name">" صفای وول"</string>
+    <string name="app_folder">" ایپ فولڈر"</string>
+    <string name="unread_hint">" راوان چھء فونک تء SMS اجازتء، مہربانی کریتھ وچھیو پننء اجازتن ہنز ترتیب"</string>
+    <string name="choose">"چنو"</string>
+    <string name="clean_toast_prompt">" ترویکھ <xliff:g id="count">%1$s</xliff:g> کامء اندر، <xliff:g id="count">%2$s</xliff:g> MB موجود وکینس۔"</string>
+    <string name="family_num_not_set">" بعژءن ہند نمبر %1$s چھنء آمت تھاونء"</string>
+    <string name="no_sim_card_inserted">مهرباني كريتھ کرییو داخل SIM لانچ SIM ٹول کٹ کھتر.</string>
+    <string name="app_open_error">" کھولاون گو ناکام، مہربانی کریتھ وچھیو دبارء۔"</string>
+    <string name="weather_0">"تاپھ جعس"</string>
+    <string name="weather_1">" رودء دوہ"</string>
+</resources>

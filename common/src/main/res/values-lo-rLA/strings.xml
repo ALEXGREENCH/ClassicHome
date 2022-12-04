@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"ເຄືອຂ່າຍຄອບຄົວ"</string>
+<string name="remove_title">"ລຶບອອກຈາກສະໝຸດລາຍຊື່"</string>
+<string name="remove_info">"ທ່ານແນ່ໃຈທີ່ຈະລຶບລາຍຊື່ນີ້ອອກຈາກສະໝຸດລາຍຊື່ບໍ່?"</string>
+<string name="remove_confirm">"ການເຂົ້າໃຈ"</string>
+<string name="remove_cancel">"ຍົກເລີກ"</string>
+<string name="activity_not_found">"ຊອກຫາແອັບບໍ່ພົບ"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"خاندان"</string>
+<string name="remove_title">"رابطہ ہٹائیں"</string>
+<string name="remove_info">"کیا آپ کو یقین ہے کہ آپ ورک سپیس سے رابطہ کو ہٹانا چاہتے ہیں؟"</string>
+<string name="remove_confirm">"ٹھیک ہے"</string>
+<string name="remove_cancel">"منسوخ کریں"</string>
+<string name="activity_not_found">"ایپ نہیں ملی۔"</string>
+</resources>

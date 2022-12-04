@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"सानाफानाको"</string>
+    <string name="speed_name">"फारचावाक्"</string>
+    <string name="app_folder">"ऐप फोल्डर"</string>
+    <string name="unread_hint">"आत् फोन आर SMS छाड़ को, दायाकाते आमाक् छाड़ सेटिंग को पाछनाव मे"</string>
+    <string name="choose">"बाछाव"</string>
+    <string name="clean_toast_prompt">"उछान आकादा <xliff:g id="count">%1$s</xliff:g> कामीधारा, <xliff:g id="count">%2$s</xliff:g> MB नित् मेनाक्आ।"</string>
+    <string name="family_num_not_set">"घारोञ्ज लेखा %1$s बाङ सेट आकाना"</string>
+    <string name="no_sim_card_inserted">"SIMटूलकिट एहव लोगेत ते दायाकाते SIM खोड़ मे।"</string>
+    <string name="app_open_error">"बाङ झिच् लेना, दायाकाते आरहों पाछनाव लेगाय मे।"</string>
+    <string name="weather_0">"बेरराँत "</string>
+    <string name="weather_1">"जाड़ी माँहाँ"</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flash_light">"ဓာတ္မီး"</string>
+    <string name="flash_open">"ဖြင့္ပါ"</string>
+    <string name="flash_close">"ပိတ္ပါ"</string>
+    <string name="idle_main_menu">"မီႏူး"</string>
+    <string name="qtn_idle_extra">"အပို"</string>
+    <string name="flash_invert">"ေျပာင္းျပန္"</string>
+    <string name="desktop_carrier_default">"၀န္ေဆာင္မွဳမရွိ."</string>
+    <string name="desktop_network_locked_message">"ကြန္ယက္ေသာ့ခတ္ျပီး"</string>
+    <string name="desktop_missing_sim_message_short">"SIM ကဒ္မရွိပါ။"</string>
+    <string name="desktop_permanent_disabled_sim_message_short">"SIM ကဒ္ သံုး၍မရပါ."</string>
+</resources>

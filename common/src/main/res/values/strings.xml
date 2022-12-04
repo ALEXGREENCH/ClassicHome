@@ -1,0 +1,8 @@
+<resources>
+    <string name="family">Family</string>
+    <string name="remove_title">Remove Contact</string>
+    <string name="remove_info">Are you sure to remove the contact from workspace?</string>
+    <string name="remove_confirm">OK</string>
+    <string name="remove_cancel">Cancel</string>
+    <string name="activity_not_found">App can\'t be found.</string>
+</resources>

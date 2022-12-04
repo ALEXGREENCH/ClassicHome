@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"परिवार"</string>
+<string name="remove_title">"संपर्क हटाऊ"</string>
+<string name="remove_info">"अहां निश्चित छी जे काजक जगहसँ संपर्क हटावय चाहैत छी?"</string>
+<string name="remove_confirm">"ठीक छई"</string>
+<string name="remove_cancel">"हंटाऊ।"</string>
+<string name="activity_not_found">"एप नहि भेटल।"</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">Alat</string>
+    <string name="speed_name">"Pembersih"</string>
+    <string name="app_folder">"Folder Apl"</string>
+    <string name="unread_hint">"Kebenaran Telefon dan SMS hilang, sila semak tetapan kebenaran anda"</string>
+    <string name="choose">"Pilih"</string>
+    <string name="clean_toast_prompt">"Proses melepaskan <xliff:g id="count">%1$s</xliff:g>, <xliff:g id="count">%2$s</xliff:g> MB tersedia sekarang."</string>
+    <string name="family_num_not_set">"Nombor Keluarga %1$s tidak ditetapkan"</string>
+    <string name="no_sim_card_inserted">"Sila sisipkan SIM untuk melancarkan Set Alat SIM."</string>
+    <string name="app_open_error">"Gagal membuka, sila semaknya semula."</string>
+    <string name="weather_0">"Hari cerah"</string>
+    <string name="weather_1">"Hari hujan"</string>
+</resources>

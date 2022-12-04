@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">Kasangkapan</string>
+    <string name="speed_name">"Tagalinis"</string>
+    <string name="app_folder">"Polder ng app"</string>
+    <string name="unread_hint">"Nawawala ang Telepono at SMS na mga pahintulot, mangyaring suriin ang iyong mga itinakda sa pahintulot"</string>
+    <string name="choose">"Piliin"</string>
+    <string name="clean_toast_prompt">"Inilabas <xliff:g id="count">%1$s</xliff:g> na mga proseso, <xliff:g id="count">%2$s</xliff:g> na MB ang magagamit ngayon."</string>
+    <string name="family_num_not_set">"Numero ng pamilya %1$s ay hindi itinakda"</string>
+    <string name="no_sim_card_inserted">"Pakipasok ang SIM upang ilunsad ang SIM Toolkit."</string>
+    <string name="app_open_error">"Nabigong buksan, mangyaring suriin ito muli."</string>
+    <string name="weather_0">"Maaraw na araw"</string>
+    <string name="weather_1">"Maulan na araw"</string>
+</resources>

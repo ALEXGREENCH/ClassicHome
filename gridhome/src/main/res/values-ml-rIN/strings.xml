@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"ടൂളുകള്‍"</string>
+    <string name="speed_name">"ക്ലീനർ"</string>
+    <string name="app_folder">"ആപ്പ്‌ഫോൾഡർ"</string>
+    <string name="unread_hint">""മിസ്സിങ് ഫോണും എസ് എം എസ് പെർമിഷനുകളും, ദയവായി നിങ്ങളുടെ പെർമിഷൻ സജ്ജീകരണങ്ങൾ പരിശോധിക്കുക" "</string>
+    <string name="choose">""തെരഞ്ഞെടുക്കുക" "</string>
+    <string name="clean_toast_prompt">"റിലീസ് ചെയ്തു<xliff:g id="count">%1$s</xliff:g>പ്രോസസുകൾ, <xliff:g id="count">%2$s</xliff:g>  MB ഇപ്പോൾ ലഭ്യം."</string>
+    <string name="family_num_not_set">"ഫാമിലി നമ്പർ %1$s സജ്ജീകരിച്ചിട്ടില്ല"</string>
+    <string name="no_sim_card_inserted">"SIM ടൂൾക്കിറ്റ് സമാരംഭിക്കാൻ SIM ചേർക്കുക."</string>
+    <string name="app_open_error">"തുറക്കൽ പരാജയം, ദയവായി അത് വീണ്ടും പരിശോധിക്കുക."</string>
+    <string name="weather_0">"വെയിലുള്ള ദിവസം"</string>
+    <string name="weather_1">"മഴയുള്ള ദിവസം"</string>
+</resources>

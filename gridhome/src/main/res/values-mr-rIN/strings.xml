@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"साधने"</string>
+    <string name="speed_name">"क्लिनर"</string>
+    <string name="app_folder">"ऍप फोल्डर"</string>
+    <string name="unread_hint">"फोन आणि संदेश ची परवाणगी उपलब्ध नाही,कृपया आपली परवाणगी ची सेटींग तपासा"</string>
+    <string name="choose">"निवडा"</string>
+    <string name="clean_toast_prompt">"मुक्त <xliff:g id="count">%1$s</xliff:g> प्रक्रिया, <xliff:g id="count">%2$s</xliff:g>  आता एमबी उपलब्ध आहे."</string>
+    <string name="family_num_not_set">"फॅमिली क्रमांक %1$s सेट केलेला नाही"</string>
+    <string name="no_sim_card_inserted">"कृपया सिम टूलकिट लाँच करण्‍यासाठी सिम घाला."</string>
+    <string name="app_open_error">"उघडा काम करत नाही, कृपया परत एकदा तपासा"</string>
+    <string name="weather_0">""आनंदी दिवस" "</string>
+    <string name="weather_1">""पावसाळी दिवस" "</string>
+</resources>

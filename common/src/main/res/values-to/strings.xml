@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"कुटुंब"</string>
+<string name="remove_title">"संपर्क काड"</string>
+<string name="remove_info">"वर्कस्पेसांतल्यान संपर्क काडपाची तुमकां खात्री आसा?"</string>
+<string name="remove_confirm">"बरे"</string>
+<string name="remove_cancel">"रद्द"</string>
+<string name="activity_not_found">"ॲप सांपडूंक ना."</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tools_name">"Alatke"</string>
+    <string name="speed_name">"Čistač"</string>
+    <string name="app_folder">"Mapa za aplikacije"</string>
+    <string name="unread_hint">"Nedostaju dozvole za telefon i SMS, molimo provjerite postavke vezane za Vaše dozvole.""</string>
+    <string name="choose">"Odabrati"</string>
+    <string name="clean_toast_prompt">"Otpušteno <xliff:g id="count">%1$s</xliff:g> postupaka, <xliff:g id="count">%2$s</xliff:g> MB je sada dostupan."</string>
+    <string name="family_num_not_set">"Obiteljski broj %1$s nije postavljen"</string>
+    <string name="no_sim_card_inserted">"Umetnite SIM da biste pokrenuli alat za SIM."</string>
+    <string name="app_open_error">"Otvaranje nije uspjelo, molimo provjerite ponovo."</string>
+    <string name="weather_0">"Sunčani dan"</string>
+    <string name="weather_1">"Kišni dan"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"ପରିବାର"</string>
+<string name="remove_title">"ରିମୁଭ୍ କଣ୍ଟାକ୍ଟ"</string>
+<string name="remove_info">"ୱର୍କସ୍ପେସ୍ ରୁ କଣ୍ଟାକ୍ଟ ହଟାଇବା ପାଇଁ ଆପଣ ନିଶ୍ଚିତ କି?"</string>
+<string name="remove_confirm">"ଠିକଠାକ"</string>
+<string name="remove_cancel">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="activity_not_found">"ଆପ୍ ମିଳୁ ନାହିଁ ।"</string>
+</resources>

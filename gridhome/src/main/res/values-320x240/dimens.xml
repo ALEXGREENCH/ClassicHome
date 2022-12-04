@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="horizontalSpacing_grid_view">4dp</dimen>
+    <dimen name="verticalSpacing_grid_view">4dp</dimen>
+    <dimen name="shape_corners_radius">5dp</dimen>
+
+    <dimen name="memory_info_margin_top">30dp</dimen>
+
+    <dimen name="family_item_textsize_empty">26sp</dimen>
+    <dimen name="family_item_textsize">35sp</dimen>
+    <dimen name="icon_label_font_size">22sp</dimen>
+</resources>

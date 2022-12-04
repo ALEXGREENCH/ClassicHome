@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="family">"नखर"</string>
+<string name="remove_title">"कनटेक्टखौ बोखार"</string>
+<string name="remove_info">"नोंथाङा कनटेक्टखौ वार्कस्पेसनिफ्राइ बोखारमारगोनना?"</string>
+<string name="remove_confirm">"अके"</string>
+<string name="remove_cancel">"केन्चेल"</string>
+<string name="activity_not_found">"एपखौ मोनाखै।"</string>
+</resources>
