@@ -6,34 +6,27 @@ import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
-//import android.graphics.drawable.Drawable;
+import android.os.Build;
 import android.os.Bundle;
-import android.os.Handler;
-import android.os.Message;
-//import android.os.SystemProperties;
 import android.provider.Settings;
-//import android.telephony.TelephonyManager;
 import android.text.TextUtils;
 import android.text.TextUtils.TruncateAt;
 import android.util.Log;
-//import android.util.TypedValue;
 import android.view.Gravity;
 import android.view.KeyEvent;
 import android.view.View;
 import android.widget.TextView;
 
-////////import com.android.internal.telephony.IccCardConstants;
-////////import com.android.internal.telephony.TelephonyIntents;
-////////import com.android.internal.telephony.IccCardConstants.State;
 import com.sprd.classichome.model.HomeMonitorCallbacks;
-//import com.sprd.classichome.util.IconUtilities;
 import com.sprd.classichome.util.UtilitiesExt;
 import com.sprd.common.FeatureOption;
 import com.sprd.common.util.FeatureBarUtil;
+import com.sprd.common.util.FlashlightController;
 import com.sprd.common.util.KeyCodeEventUtil;
 import com.sprd.common.util.Utilities;
-import com.sprd.common.util.FlashlightController;
 import com.sprd.simple.launcher2.R;
+
+import java.lang.reflect.Method;
 
 /**
  * Created by SPRD on 9/22/17.
@@ -75,7 +68,7 @@ public class Home extends BaseHomeActivity {
         ((HomeApplication) getApplication()).setHomeCallback(mCallback);
         setupViews();
         enableWallpaperShowing(getResources().getBoolean(R.bool.idle_home_with_wallpaper));
-        if(FeatureOption.SPRD_SHOW_CARRIER_SUPPORT){
+        if (FeatureOption.SPRD_SHOW_CARRIER_SUPPORT) {
             mSeparator = getResources().getString(R.string.desktop_text_message_separator);
             mTelephonyPlmn = getDefaultPlmn();
             ////////mSimState = IccCardConstants.State.UNKNOWN;
@@ -103,7 +96,7 @@ public class Home extends BaseHomeActivity {
     @Override
     protected void onResume() {
         super.onResume();
-        if(FeatureOption.SPRD_SHOW_CARRIER_SUPPORT){
+        if (FeatureOption.SPRD_SHOW_CARRIER_SUPPORT) {
             Log.d(TAG, "regist carrier text broadcast");
             registerReceiver(mBroadcastReceiver, mIntentFilter);
         }
@@ -112,7 +105,7 @@ public class Home extends BaseHomeActivity {
     @Override
     protected void onPause() {
         super.onPause();
-        if(FeatureOption.SPRD_SHOW_CARRIER_SUPPORT){
+        if (FeatureOption.SPRD_SHOW_CARRIER_SUPPORT) {
             Log.d(TAG, "unregist carrier text broadcast");
             unregisterReceiver(mBroadcastReceiver);
         }
@@ -139,7 +132,7 @@ public class Home extends BaseHomeActivity {
         if (!KeyCodeEventUtil.isLauncherNeedUseKeycode(keyCode)) {
             return super.onKeyUp(keyCode, event);
         } else {
-          Log.d(TAG, "isLauncherNeedUseKeycode");
+            Log.d(TAG, "isLauncherNeedUseKeycode");
         }
 
         boolean result = false;
@@ -159,6 +152,9 @@ public class Home extends BaseHomeActivity {
                     Utilities.startActivity(this, mRightCn);
                     result = true;
                     break;
+                case KeyEvent.KEYCODE_DPAD_DOWN:
+                    openStatusbar(true);
+                    break;
                 default:
                     break;
             }
@@ -168,6 +164,31 @@ public class Home extends BaseHomeActivity {
             result = super.onKeyUp(keyCode, event);
         }
         return result;
+    }
+
+    @SuppressLint("ObsoleteSdkInt")
+    private void openStatusbar(boolean isExpand) {
+        try {
+            @SuppressLint("WrongConstant")
+            Object service = getSystemService(Context.STATUS_BAR_SERVICE);
+            Class<?> statusbarManager = Class.forName("android.app.StatusBarManager");
+
+            String methodName;
+            if (isExpand) {
+                if (Build.VERSION.SDK_INT >= 17) {
+                    methodName = "expandNotificationsPanel";
+                } else {
+                    methodName = "expand";
+                }
+            } else if (Build.VERSION.SDK_INT >= 17) {
+                methodName = "collapsePanels";
+            } else {
+                methodName = "collapse";
+            }
+            Method expand = statusbarManager.getMethod(methodName);
+            expand.invoke(service);
+        } catch (Exception ex) {
+        }
     }
 
     private final BroadcastReceiver mBroadcastReceiver = new BroadcastReceiver() {

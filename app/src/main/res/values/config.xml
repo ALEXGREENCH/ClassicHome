@@ -1,5 +1,4 @@
 <resources>
-
     <integer name="main_menu_column_num">3</integer>
     <!-- add for family number -->
     <integer name="family_column_num">3</integer>
@@ -11,6 +10,6 @@
     <bool name="idle_home_with_wallpaper">true</bool>
     <bool name="main_menu_with_wallpaper">true</bool>
 
-    <string name="left_button_launch_app" translatable="false">"com.sprd.simple.launcher2/com.sprd.classichome.family.FamilyActivity"</string>
-    <string name="right_button_launch_app" translatable="false">"com.android.camera/com.android.camera.Camera"</string>
+    <string name="left_button_launch_app" translatable="false">"com.android.contacts/com.android.contacts.activities.PeopleActivity"</string>
+    <string name="right_button_launch_app" translatable="false">"com.android.camera2/com.android.camera.CameraLauncher"</string>
 </resources>

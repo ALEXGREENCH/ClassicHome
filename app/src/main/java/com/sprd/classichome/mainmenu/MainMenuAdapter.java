@@ -2,6 +2,7 @@ package com.sprd.classichome.mainmenu;
 
 import android.content.ComponentName;
 import android.content.Context;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -54,6 +55,9 @@ public class MainMenuAdapter extends BaseAdapter {
         mContext = gridView.getContext();
         mGridView = gridView;
         mMainMenuApps = LauncherModel.getMainMenuAppsList();
+        for (AppItemInfo app : mMainMenuApps){
+            Log.d("App", "pkg:" + app.pkgName + " | class: "+ app.clsName);
+        }
         mInflater = (LayoutInflater) mContext.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         HomeApplication.getInstance().setHomeCallback(mCallback);
     }
