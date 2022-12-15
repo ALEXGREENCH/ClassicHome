@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name1">Лаунчер</string>
+    <string name="flash_light">Фонарик</string>
+    <string name="flash_open">Вкл.</string>
+    <string name="flash_close">Выкл.</string>
+    <string name="idle_main_menu">Меню</string>
+    <string name="qtn_idle_extra">Экстра</string>
+    <string name="flash_invert">Инверт.</string>
+</resources>
