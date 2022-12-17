@@ -75,7 +75,7 @@ public class FeatureBarUtil {
     }
 
     public static void setIcon(FeatureBarHelper fbh, SoftKey key, Drawable icon, int iconSize) {
-        TextView v = getTextView( fbh, key );
+        TextView v = getTextView(fbh, key);
         if (v != null && icon != null) {
             if (iconSize > 0) {
                 icon.setBounds(0, 0, iconSize, iconSize);
@@ -99,7 +99,7 @@ public class FeatureBarUtil {
                 default:
                     break;
             }
-            v.setCompoundDrawables(left, top, right, null );
+            v.setCompoundDrawables(left, top, right, null);
         }
     }
 

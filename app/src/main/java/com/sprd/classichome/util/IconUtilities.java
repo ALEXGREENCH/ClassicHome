@@ -60,17 +60,17 @@ public final class IconUtilities {
 
         //Get the left min padding of the transparent space
 
-        Rect scanRect = new Rect(left, top, right/2, bottom);
+        Rect scanRect = new Rect(left, top, right / 2, bottom);
         lPadding = getBitmapTransparentDepth(bitmap, scanRect, StartScanBorderType.LEFT, gap);
-        if(lPadding == 0) {
+        if (lPadding == 0) {
             return 0;
         }
         minPadding = lPadding;
 
         //Get the top min padding of the transparent space
-        scanRect.set(minPadding, top, right , minPadding);
+        scanRect.set(minPadding, top, right, minPadding);
         tPadding = getBitmapTransparentDepth(bitmap, scanRect, StartScanBorderType.TOP, gap);
-        if(tPadding == 0) {
+        if (tPadding == 0) {
             return 0;
         }
         minPadding = Math.min(minPadding, tPadding);
@@ -79,7 +79,7 @@ public final class IconUtilities {
         //Get the right min padding of the transparent space
         scanRect.set(right - minPadding, minPadding, right, bottom);
         rPadding = getBitmapTransparentDepth(bitmap, scanRect, StartScanBorderType.RIGHT, gap);
-        if(rPadding == 0) {
+        if (rPadding == 0) {
             return 0;
         }
         minPadding = Math.min(minPadding, rPadding);
@@ -102,7 +102,7 @@ public final class IconUtilities {
             case LEFT:
                 for (int x = scanRect.left; x <= scanRect.right; x++) {
                     for (int y = scanRect.top; y <= scanRect.bottom; y += gap) {
-                        if (bitmap.getPixel(x,y) != Color.TRANSPARENT) {
+                        if (bitmap.getPixel(x, y) != Color.TRANSPARENT) {
                             return Math.abs(x - scanRect.left);
                         }
                     }
@@ -111,7 +111,7 @@ public final class IconUtilities {
             case TOP:
                 for (int y = scanRect.top; y <= scanRect.bottom; y++) {
                     for (int x = scanRect.left; x <= scanRect.right; x += gap) {
-                        if (bitmap.getPixel(x,y) != Color.TRANSPARENT) {
+                        if (bitmap.getPixel(x, y) != Color.TRANSPARENT) {
                             return Math.abs(y - scanRect.top);
                         }
                     }
@@ -120,7 +120,7 @@ public final class IconUtilities {
             case RIGHT:
                 for (int x = scanRect.right; x >= scanRect.left; x--) {
                     for (int y = scanRect.top; y <= scanRect.bottom; y += gap) {
-                        if (bitmap.getPixel(x,y) != Color.TRANSPARENT) {
+                        if (bitmap.getPixel(x, y) != Color.TRANSPARENT) {
                             return Math.abs(x - scanRect.right);
                         }
                     }
@@ -129,7 +129,7 @@ public final class IconUtilities {
             case BOTTOM:
                 for (int y = scanRect.bottom; y >= scanRect.top; y--) {
                     for (int x = scanRect.left; x <= scanRect.right; x += gap) {
-                        if (bitmap.getPixel(x,y) != Color.TRANSPARENT) {
+                        if (bitmap.getPixel(x, y) != Color.TRANSPARENT) {
                             return Math.abs(y - scanRect.bottom);
                         }
                     }
@@ -140,9 +140,12 @@ public final class IconUtilities {
     }
 
     public static Bitmap cropBitmap(Bitmap bitmap, int padding) {
-        int w = bitmap.getWidth() - 2*padding;
-        int h = bitmap.getHeight() - 2*padding;
-        return Bitmap.createBitmap(bitmap, padding, padding, w, h, null, false);
+        try {
+            int w = bitmap.getWidth() - 2 * padding;
+            int h = bitmap.getHeight() - 2 * padding;
+            return Bitmap.createBitmap(bitmap, padding, padding, w, h, null, false);
+        } catch (Exception ignored) {}
+        return null;
     }
 
     public static Bitmap drawable2Bitmap(Drawable drawable) {

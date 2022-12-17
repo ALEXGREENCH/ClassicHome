@@ -5,7 +5,6 @@
 package com.sprd.android.support.featurebar;
 
 import android.app.Activity;
-import android.os.SystemClock;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
@@ -13,11 +12,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.Window;
 ////////import com.android.internal.app.ActionBarImpl;
-
 ////////import com.android.internal.widget.ActionBarContextView;
 ////////import com.android.internal.widget.ActionBarView;
 
 public class FeatureBarHelper {
+
     private static final String TAG = "FeatureBarHelper";
     private static final boolean DEBUG = true;
 
@@ -53,7 +52,7 @@ public class FeatureBarHelper {
             return;
         }
 
-        ViewGroup contentView = (ViewGroup) decorView.findViewById(android.R.id.content);
+        ViewGroup contentView = decorView.findViewById(android.R.id.content);
         if (contentView == null) {
             Log.e(TAG, "Decor view is null, have you called wrapDecor after Activity#super.onCreate?");
             return;
@@ -75,7 +74,7 @@ public class FeatureBarHelper {
         LayoutInflater inflater = LayoutInflater.from(activity);
         View wrapper = inflater.inflate(R.layout.decor_layout, null);
 
-        ViewGroup rawContentView = (ViewGroup) wrapper.findViewById(R.id.content);
+        ViewGroup rawContentView = wrapper.findViewById(R.id.content);
         if (childCount > 0) {
             for (View child : children) {
                 rawContentView.addView(child);
@@ -84,7 +83,7 @@ public class FeatureBarHelper {
         //change for listActivity, add view first then setContenView
         activity.setContentView(wrapper);
 
-        mBar = (ViewGroup) wrapper.findViewById(R.id.feature_bar);
+        mBar = wrapper.findViewById(R.id.feature_bar);
         mBackKey = wrapper.findViewById(R.id.feature_bar_back);
         mCenterKey = wrapper.findViewById(R.id.feature_bar_center);
         mOptionsKey = wrapper.findViewById(R.id.feature_bar_options);

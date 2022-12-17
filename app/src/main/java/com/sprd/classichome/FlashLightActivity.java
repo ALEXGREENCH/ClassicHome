@@ -47,7 +47,7 @@ public class FlashLightActivity extends Activity {
     @Override
     public boolean onKeyUp(int keyCode, KeyEvent event) {
         boolean returnValue = false;
-        if (DEBUG) LogUtils.i(TAG, "keyCode = "+keyCode);
+        if (DEBUG) LogUtils.i(TAG, "keyCode = " + keyCode);
         if (event.isTracking() && !event.isCanceled()) {
             if (DEBUG) LogUtils.i(TAG, "onKeyUp  short press");
             switch (keyCode) {
@@ -60,7 +60,7 @@ public class FlashLightActivity extends Activity {
                     returnValue = true;
                     break;
                 default:
-                    returnValue =super.onKeyUp(keyCode, event);
+                    returnValue = super.onKeyUp(keyCode, event);
                     break;
             }
         } else {
@@ -108,7 +108,7 @@ public class FlashLightActivity extends Activity {
     private void updateFeatureBar() {
         if (PlatformHelper.isTargetBuild() && mFeatureBarHelper == null) {
             mFeatureBarHelper = new FeatureBarHelper(this);
-            FeatureBarUtil.setText(this, mFeatureBarHelper, FeatureBarUtil.SoftKey.LFK, R.string.flash_invert );
+            FeatureBarUtil.setText(this, mFeatureBarHelper, FeatureBarUtil.SoftKey.LFK, R.string.flash_invert);
         }
 
         int midTextId = mTurnOnLight ? R.string.flash_close : R.string.flash_open;
@@ -122,27 +122,27 @@ public class FlashLightActivity extends Activity {
         FeatureBarUtil.setBackgroundColor(this, mFeatureBarHelper, bgSkColorId);
     }
 
-    private void updateActionBar(){
+    private void updateActionBar() {
         Drawable drawable;
         int titleColor;
 
-        if(mActionBar == null){
+        if (mActionBar == null) {
             mActionBar = getActionBar();
         }
-        if(mTitleTextView == null){
+        if (mTitleTextView == null) {
             @SuppressLint("DiscouragedApi")
             int titleId = Resources.getSystem().getIdentifier("action_bar_title", "id", "android");
             mTitleTextView = findViewById(titleId);
         }
 
-        if(mTurnOnScreen){
+        if (mTurnOnScreen) {
             drawable = getResources().getDrawable(R.drawable.light_actionbar_invert_bg);
             titleColor = getResources().getColor(R.color.flashlight_actionbar_invert_font_color);
-        }else{
+        } else {
             drawable = getResources().getDrawable(R.drawable.light_actionbar_default_bg);
             titleColor = getResources().getColor(R.color.flashlight_actionbar_default_font_color);
         }
-        if(mTitleTextView != null){
+        if (mTitleTextView != null) {
             mTitleTextView.setTextColor(titleColor);
         }
         mActionBar.setBackgroundDrawable(drawable);
